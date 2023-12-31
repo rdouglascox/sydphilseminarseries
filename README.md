@@ -33,5 +33,5 @@
 
 # Past Seminars 
 
-[Semester 2, 2023](sem2_2023.html)
+[Archive](archive.html)
 
