@@ -29,3 +29,9 @@
 * Week 1, July 31
   * Anca Gheaus
 * Week 2, August 7
+
+
+# Past Seminars 
+
+[Semester 2, 2023](sem2_2023.html)
+
