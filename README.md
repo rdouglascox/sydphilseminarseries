@@ -21,13 +21,13 @@
     {% endif %}
     {% if sem.notes %}
     <li>Note: {{ sem.notes }} </li>
-    {% endif %} 
+    {% endif %}
+    </ul>
     {% else %}  
     <ul>
     <li>Speaker: TBA</li>  
     </ul>
     {% endif %}
-    </ul>
 {% endfor %}
 </ul>
 
