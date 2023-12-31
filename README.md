@@ -5,7 +5,8 @@
 {% for seminar in site.data.sem2_2024 %}
     <li> {{ member.speaker }}
     </li>
-</ui>
+{% endfor %}
+</ul>
 
 # Semester 1, 2024
 
