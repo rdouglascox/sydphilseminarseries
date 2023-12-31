@@ -2,8 +2,8 @@
 # From Yaml 
 
 <ul>
-{% for seminar in site.data.sem2_2024 %}
-    <li> {{ member.speaker }}
+{% for sem in site.data.sem2_2024 %}
+    <li> {{ sem.speaker }}
     </li>
 {% endfor %}
 </ul>
