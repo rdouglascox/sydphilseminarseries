@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 The University of Sydney Philosophy Department Seminar
 Series takes place on 3:30pm on Wednesdays during semester in the
 Philosophy Seminar Room (N494).
