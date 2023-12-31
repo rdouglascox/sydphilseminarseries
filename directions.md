@@ -1,6 +1,4 @@
----
-title: Directions
----
+### Directions
 
 The Philosophy Seminar Room are in the Quadrangle. The Quadrangle is visible from almost everywhere on campus. Just look for the clock tower.
 
