@@ -1,0 +1,19 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.sydphil.wiki/
+METHOD:PUBLISH{% for sem in site.data.sem2_2024 %}
+BEGIN:VEVENT
+UID:{{ sem.fulldate | date: "%Y%m%d" }}@sydney.edu.au
+ORGANIZER;CN="BEPHPUG Team":MAILTO:ryan.cox@sydney.edu.au
+LOCATION:Philosophy Seminar Room, N494
+SUMMARY:{{ sem.speaker }} {{ sem.affiliation }}
+DESCRIPTION: {{ sem.abstract }}
+CLASS:PUBLIC
+DTSTART:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
+DTEND:{{ sem.fulldate | date: "%Y%m%d" }}T170000Z
+DTSTAMP:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
+END:VEVENT{% endfor %}
+END:VCALENDAR
