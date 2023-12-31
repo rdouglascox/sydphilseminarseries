@@ -24,9 +24,8 @@
     {% if sem.notes %}
     <li>Note: {{ sem.notes }} </li>
     {% endif %} 
-    </ul>
     {% endif %}
-
+    </ul>
 {% endfor %}
 </ul>
 
