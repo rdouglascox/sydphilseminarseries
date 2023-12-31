@@ -13,7 +13,8 @@
     {% if sem.speaker %}
     <ul>
     <li>Speaker: {{ sem.speaker }}{% if sem.speaker %}, {{ sem.affiliation }} {% endif %} </li>
-    {% else %} 
+    {% else %}  
+    <ul>
     <li>Speaker: TBA</li>  
     </ul>
     {% if sem.title %}
