@@ -4,16 +4,33 @@ layout: null
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://www.sydphil.wiki/
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+BEGIN:STANDARD
+DTSTART:20080406T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20081005T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+END:VTIMEZONE
 METHOD:PUBLISH{% for sem in site.data.sem2_2024 %}
 BEGIN:VEVENT
 UID:{{ sem.fulldate | date: "%Y%m%d" }}@sydney.edu.au
-ORGANIZER;CN="BEPHPUG Team":MAILTO:ryan.cox@sydney.edu.au
+ORGANIZER;CN="Ryan Cox":MAILTO:ryan.cox@sydney.edu.au
 LOCATION:Philosophy Seminar Room, N494
 SUMMARY:{{ sem.speaker }} {{ sem.affiliation }}
 DESCRIPTION: {{ sem.abstract }}
 CLASS:PUBLIC
-DTSTART:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
-DTEND:{{ sem.fulldate | date: "%Y%m%d" }}T170000Z
-DTSTAMP:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
+DTSTART:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
+DTEND:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T170000Z
+DTSTAMP:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
 END:VEVENT{% endfor %}
 END:VCALENDAR
