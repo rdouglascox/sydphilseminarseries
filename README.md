@@ -4,16 +4,17 @@
 <ul>
 {% for sem in site.data.sem2_2024 %}
     {% if sem.week %}
-    <li>Week {{ sem.week }} </li>
+    <li>Week {{ sem.week }}
     {% endif %}
     {% if sem.date %}
-    <li>{{ sem.date }} </li>
+    , {{ sem.date }}
     {% endif %}
+    </li> 
     {% if sem.speaker %}
+    <ul>
     <li>Speaker: {{ sem.speaker }}{% if sem.speaker %}, {{ sem.affiliation }} {% endif %} </li>
     {% else %} 
     <li>Speaker: TBA</li>  
-    {% endif %}
     {% if sem.title %}
     <li>Title: {{ sem.title }} </li>
     {% endif %}
@@ -22,6 +23,8 @@
     {% endif %}
     {% if sem.notes %}
     <li>Note: {{ sem.notes }} </li>
+    </ul>
+    {% endif %} 
     {% endif %}
 
 {% endfor %}
