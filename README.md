@@ -1,4 +1,12 @@
 
+# From Yaml 
+
+<ul>
+{% for seminar in site.data.sem2_2024 %}
+    <li> {{ member.speaker }}
+    </li>
+</ui>
+
 # Semester 1, 2024
 
 * Week 1, February 21 
