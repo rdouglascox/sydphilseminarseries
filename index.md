@@ -1,14 +1,15 @@
 
-## Sem 2, 2024
+### Sem 2, 2024
 
 <ul>
 {% for sem in site.data.sem2_2024 %}
     {% if sem.week %}
-    <li>Week {{ sem.week }}
+    <li><b>Week {{ sem.week }}
     {% endif %}
     {% if sem.date %}
     , {{ sem.date }}
     {% endif %}
+    </b>
     </li> 
     {% if sem.speaker %}
     <ul>
