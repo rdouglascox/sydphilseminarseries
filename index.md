@@ -1,6 +1,4 @@
 
-
-
 ## Sem 2, 2024
 
 <ul>
@@ -33,6 +31,5 @@
 {% endfor %}
 </ul>
 
-Previous semesters: [Archive](archive.html)
 
 
