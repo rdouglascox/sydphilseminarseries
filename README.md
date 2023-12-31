@@ -23,8 +23,8 @@
     {% endif %}
     {% if sem.notes %}
     <li>Note: {{ sem.notes }} </li>
-    </ul>
     {% endif %} 
+    </ul>
     {% endif %}
 
 {% endfor %}
