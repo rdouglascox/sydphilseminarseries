@@ -1,16 +1,36 @@
 
+### Sem 2, 2024
+
+<ul>
 {% for sem in site.data.sem2_2024 %}
-    <br>
-    <p> 
-    Hi everyone, 
-    </p>
-    <p> 
-    This week's speaker in the University of Sydney Philosophy Seminar Series is {{ sem.speaker }} {% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %}
-    </p> 
-    <p>The title of the talk is {{ sem.title }}. Here is an abstract for the talk: </p> 
-    <blockquote> {{ sem.abstract }} </blockquote> 
-    <p> The seminar will take place at 3:30pm on {{ sem.date }} in the Philosophy Seminar Room N494. </p> 
+    {% if sem.week %}
+    <li><b>Week {{ sem.week }}
+    {% endif %}
+    {% if sem.date %}
+    , {{ sem.date }}
+    {% endif %}
+    </b>
+    </li> 
+    {% if sem.speaker %}
+    <ul>
+    <li>Speaker: {{ sem.speaker }}{% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %} </li>
+    {% if sem.title %}
+    <li>Title: {{ sem.title }} </li>
+    {% endif %}
+    {% if sem.abstract %}
+    <li>Abstract: {{ sem.abstract }} </li>
+    {% endif %}
+    {% if sem.notes %}
+    <li>Note: {{ sem.notes }} </li>
+    {% endif %}
+    </ul>
+    {% else %}  
+    <ul>
+    <li>Speaker: TBA</li>  
+    </ul>
+    {% endif %}
 {% endfor %}
+</ul>
 
 
 
