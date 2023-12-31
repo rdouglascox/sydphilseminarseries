@@ -1,5 +1,7 @@
 ### SydPhil Emails
 
+
+<span>
 {% for sem in site.data.sem2_2024 %}
     <br>
     <p> 
@@ -12,6 +14,6 @@
     <blockquote> {{ sem.abstract }} </blockquote> 
     <p> The seminar will take place at 3:30pm on {{ sem.date }} in the Philosophy Seminar Room N494. </p> 
 {% endfor %}
-
+</span>
 
 
