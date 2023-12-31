@@ -1,12 +1,105 @@
-- date: 2024-02-01 
-  week: Week 1 
-  speaker: Jones 
-  title: Blah 
-  abstract: Blah blah 
+- week: 1 
+  date: Feb 21 
+  speaker: Emanuel Viebahn  
+  affiliation: FU Berlin
+  title: 
+  abstract:
+  notes:
 
-- date: 2024-02-01 
-  week: Week 1 
-  speaker: Jones 
-  title: Blah 
-  abstract: Blah blah 
+- week: 2 
+  date: Feb 28 
+  speaker: Kyle Blumberg 
+  affiliation: 
+  title: 
+  abstract:
+  notes:
+
+- week: 3 
+  date: Mar 6 
+  speaker:
+  affiliation:
+  title: 
+  abstract:
+  notes:
+
+- week: 4 
+  date: Mar 13 
+  speaker: Anna Smajdor 
+  affiliation: University of Oslo
+  title: 
+  abstract:
+  notes:
+
+- week: 5 
+  date: Mar 20 
+  speaker: Brian Epstein 
+  affiliation: Tufts
+  title: 
+  abstract:
+  notes:
+
+- week: 6 
+  date: Mar 27 
+  speaker: 
+  affiliation: 
+  title: 
+  abstract:
+  notes:
+
+- week: 7 
+  date: Apr 10 
+  speaker: Inês Hipólito 
+  affiliation: Macquarie University 
+  title: 
+  abstract:
+  notes:
+
+- week: 8 
+  date: Apr 17 
+  speaker: 
+  title: 
+  abstract:
+  notes:
+
+- week: 9 
+  date: Apr 24  
+  speaker: 
+  title: 
+  abstract:
+  notes:
+
+- week: 10  
+  date: May 1 
+  speaker: Alex Kocurek
+  affiliation: Cornell 
+  title: 
+  abstract:
+  notes:
+
+- week: 11
+  date: May 8 
+  speaker: 
+  affiliation: 
+  title: 
+  abstract:
+  notes:
+
+- week: 12 
+  date: May 15 
+  speaker: Thomas Corbin 
+  affiliation: Macquarie University
+  title: 
+  abstract:
+  notes:
+
+- week: 13
+  date: May 22 
+  speaker:  Alex Lefebvre
+  affiliation: University of Sydney
+  title: 
+  abstract:
+  notes:
+
+
+
 
