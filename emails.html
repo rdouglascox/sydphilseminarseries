@@ -13,13 +13,13 @@
 
 {% for sem in site.data.sem2_2024 %}
 <hr> 
-<h3>Week {{ sem.week }} </h3> 
-    <p>Subject: University of Sydney Philosophy Seminar Series, {{ sem.speaker }} {% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %} </p>
+<h3>Week {{ sem.week }}, {{ sem.date }} </h3> 
+    <p>Subject: University of Sydney Philosophy Seminar Series, {{ sem.speaker }}{% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %} </p>
     <p> 
     Hi everyone, 
     </p>
     <p> 
-    This week's speaker in the University of Sydney Philosophy Seminar Series is {{ sem.speaker }} {% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %}
+    This week's speaker in the University of Sydney Philosophy Seminar Series is {{ sem.speaker }}{% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %}
     </p> 
     <p>The title of the talk is "{{ sem.title }}". Here is an abstract for the talk: </p> 
     <blockquote> {{ sem.abstract }} </blockquote> 
