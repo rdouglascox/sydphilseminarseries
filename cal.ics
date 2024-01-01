@@ -32,5 +32,5 @@ CLASS:PUBLIC
 DTSTART;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
 DTEND;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T170000
 DTSTAMP;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
-END:VEVENT{% endfor %}
+END:VEVENT{{ endfor }}
 END:VCALENDAR
