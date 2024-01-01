@@ -1,4 +1,4 @@
-# Semester 2, 2023
+### Semester 2, 2023
 
 * Week 1, August 2
   * Speaker: Michaela Manson (Monash)
