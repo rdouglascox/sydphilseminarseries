@@ -29,8 +29,8 @@ LOCATION:Philosophy Seminar Room, N494
 SUMMARY:{{ sem.speaker }} {{ sem.affiliation }}
 DESCRIPTION: {{ sem.abstract }}
 CLASS:PUBLIC
-DTSTART:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
-DTEND:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T170000Z
-DTSTAMP:TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000Z
+DTSTART;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
+DTEND;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T170000
+DTSTAMP;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
 END:VEVENT{% endfor %}
 END:VCALENDAR
