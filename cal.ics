@@ -23,14 +23,14 @@ END:DAYLIGHT
 END:VTIMEZONE
 METHOD:PUBLISH{% for sem in site.data.sem2_2024 %}
 BEGIN:VEVENT
-UID:{{ sem.fulldate | date: "%Y%m%d" }}@sydney.edu.au
+UID:{% sem.fulldate | date: "%Y%m%d" %}@sydney.edu.au
 ORGANIZER;CN="Ryan Cox":MAILTO:ryan.cox@sydney.edu.au
-LOCATION:Philosophy Seminar Room, N494
-SUMMARY:{{ sem.speaker }} {{ sem.affiliation }}
-DESCRIPTION: {{ sem.abstract }}
+LOCATION:Philosophy Seminar Room (N494)
+SUMMARY:University of Sydney Philosophy Seminar Series, Speaker: {% sem.speaker %}{% if sem.affiliation %}, {% sem.affiliation %}{% endif %}
+DESCRIPTION:{% if sem.title %}Title: {% sem.title %} {% else %}Title: TBA, {% endif %} {% if sem.abstract %}Abstract: {% sem.abstract %}{% else %} Abstract: TBA 
 CLASS:PUBLIC
-DTSTART;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
-DTEND;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T170000
-DTSTAMP;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
+DTSTART;TZID=Australia/Sydney:{% sem.fulldate | date: "%Y%m%d" %}T153000
+DTEND;TZID=Australia/Sydney:{% sem.fulldate | date: "%Y%m%d" %}T170000
+DTSTAMP;TZID=Australia/Sydney:{% sem.fulldate | date: "%Y%m%d" %}T153000
 END:VEVENT{% endfor %}
 END:VCALENDAR
