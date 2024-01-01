@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:{{ sem.fulldate | date: "%Y%m%d" }}@sydney.edu.au
 ORGANIZER;CN="Ryan Cox":MAILTO:ryan.cox@sydney.edu.au
 LOCATION:Philosophy Seminar Room (N494)
-SUMMARY:University of Sydney Philosophy Seminar Series{% if sem.speaker %}, {{ sem.speaker }}{% endif %}{% if sem.affiliation %}, {{ sem.affiliation }}{% endif %}{% if sem.title %}, Title: "{{ sem.title }}" {% endif %}
+SUMMARY:University of Sydney Philosophy Seminar Series{% if sem.speaker %}, {{ sem.speaker }}{% endif %}{% if sem.affiliation %}, ({{ sem.affiliation }}){% endif %}{% if sem.title %}, "{{ sem.title }}" {% endif %}
 DESCRIPTION:{% if sem.abstract %}Abstract: {{ sem.abstract }}{% endif %} 
 CLASS:PUBLIC
 DTSTART;TZID=Australia/Sydney:{{ sem.fulldate | date: "%Y%m%d" }}T153000
