@@ -42,7 +42,3 @@
 * November 29
   * Matthew Slater (Bucknell University)
 
-# Special Editions, Pre Sem 1, 2024
-
-* February 7
-  * Aner Govrin (Bar-Ilan University, Israel) 
