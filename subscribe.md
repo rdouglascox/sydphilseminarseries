@@ -14,4 +14,7 @@ updates.
 If you are using Outlook then things are slightly more complicated. As far as
 I can tell, the easiest way to subscribe is to sign in online, go to your
 calendar, find the "Add calendar" option under the small calendar. Then
-"Subscribe from web" with the link above. 
+"Subscribe from web" with the link above. I recommend having the Calendar
+update every day so that you don't miss updates. 
+
+ 
