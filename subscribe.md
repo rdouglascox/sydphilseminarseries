@@ -1,10 +1,10 @@
 ### Subscribe to Calendar 
 
-You can subscribe to the University of Sydney Philosophy Seminar Series Calendar here using the following link: 
+You can subscribe to the University of Sydney Philosophy Seminar Series Calendar using the following link: 
 
 > [http://www.sydphil.wiki/cal.ics](http://www.sydphil.wiki/cal.ics) 
 
-Use this address to subscribe to the calendar in your calendar program. (Make sure you subscribe instead of importing the calendar so you get updates). 
+Use this link to subscribe to the calendar in your calendar program. (Make sure you subscribe instead of importing the calendar so you get updates). 
 
 If you are using the Calendar app on a Mac then this is straightforward. With
 the app open go File > New Calendar Subscription. Use the link above.
