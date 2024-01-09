@@ -73,8 +73,8 @@
 - week: 9 
   date: Apr 24 
   fulldate: 2024-04-24
-  speaker: Luara Ferracioli
-  affiliation: University of Sydney
+  speaker:
+  affiliation:
   abstract:
   notes:
 
@@ -90,8 +90,8 @@
 - week: 11
   date: May 8 
   fulldate: 2024-05-08
-  speaker: 
-  affiliation: 
+  speaker: Luara Ferracioli
+  affiliation: University of Sydney 
   title: 
   abstract:
   notes:
