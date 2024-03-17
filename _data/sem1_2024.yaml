@@ -56,8 +56,8 @@
 - week: 7
   date: Apr 10
   fulldate: 2024-04-10
-  speaker: Inês Hipólito
-  affiliation: Macquarie University
+  speaker: Alex Kocurek
+  affiliation: Cornell
   title:
   abstract:
   notes:
@@ -95,11 +95,12 @@
   abstract:
   notes:
 
+  # speaker: Inês Hipólito
+  # affiliation: Macquarie University
+
 - week: 10
   date: May 1
   fulldate: 2024-05-01
-  speaker: Alex Kocurek
-  affiliation: Cornell
   title:
   abstract:
   notes:
