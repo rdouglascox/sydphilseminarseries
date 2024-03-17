@@ -95,12 +95,11 @@
   abstract:
   notes:
 
-  # speaker: Inês Hipólito
-  # affiliation: Macquarie University
-
 - week: 10
   date: May 1
   fulldate: 2024-05-01
+  affiliation: Macquarie University
+  speaker: Inês Hipólito
   title:
   abstract:
   notes:
