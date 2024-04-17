@@ -56,8 +56,8 @@
 - week: 5
   date: Aug 28
   fulldate: 2024-08-28
-  speaker:
-  affiliation:
+  speaker: Hannah Tierney
+  affiliation: University of California, Davis
   title:
   abstract:
   notes:
@@ -74,8 +74,8 @@
 - week: 7
   date: Sep 11
   fulldate: 2024-09-11
-  speaker:
-  affiliation:
+  speaker: 
+  affiliation: 
   title:
   abstract:
   notes:
@@ -83,8 +83,8 @@
 - week: 8
   date: Sep 18
   fulldate: 2024-09-18
-  speaker:
-  affiliation:
+  speaker: David Glick
+  affiliation: University of California, Davis
   title:
   abstract:
   notes:
@@ -100,8 +100,8 @@
 - week: 10
   date: Oct 9
   fulldate: 2024-10-09
-  speaker: David Plunkett (TBC)
-  affiliation:
+  speaker: David Plunkett
+  affiliation: Dartmouth
   title:
   abstract:
   notes:
