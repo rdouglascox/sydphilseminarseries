@@ -1,12 +1,3 @@
-- week: -1
-  date: July 17
-  fulldate: 2024-07-17
-  speaker: Seth Lazar
-  affiliation: ANU
-  title: What, if anything, should we do, now, about catastrophic AI risk?
-  abstract: >
-      The recent acceleration in public understanding of AI capabilities has been matched by growing concern about its potentially catastrophic, even existential risks. From presidents and industry leaders, to policy wonks and 'thought leaders', the alarm about AI risks has been sounded—and the public is taking notice. Meanwhile, five (perhaps six) of the seven most valuable companies globally are pursuing Artificial General Intelligence, the very technology viewed by many as posing such risks. This cognitive dissonance raises questions: How should we think about catastrophic AI risk? And what, if anything, should we do? I will argue we must differentiate between risks posed by existing AI systems and their incremental improvements, and those contingent on a significant scientific breakthrough. We should prioritize the former not due to their greater stakes, but because understanding a technology is a prerequisite for mitigating its risks without incurring excessive costs. While we should not dismiss the risks posed by hypothetical future AI systems, our most prudent course for addressing them is to cultivate resilient institutions and adaptable research communities that can evolve as our knowledge expands.
-  notes:
 
 - week: 0
   date: July 24
