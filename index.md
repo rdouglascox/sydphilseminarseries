@@ -31,6 +31,13 @@
 {% endfor %}
 </ul>
 
+### Previous Speakers 
 
-
-
+{% for sem in site.data.sem2_2024 %}
+{% if sem.speaker %}
+{{ sem.speaker }}
+{% if sem.affiliation %} 
+({{ sem.affiliation }}) 
+{% endif %}
+,
+{% endif %} 
