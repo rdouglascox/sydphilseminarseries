@@ -39,6 +39,5 @@
 {% if sem.affiliation %} 
 ({{ sem.affiliation }}) 
 {% endif %}
-,
 {% endif %}
 {% endfor %}
