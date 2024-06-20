@@ -40,4 +40,5 @@
 ({{ sem.affiliation }}) 
 {% endif %}
 ,
-{% endif %} 
+{% endif %}
+{% endfor %}
