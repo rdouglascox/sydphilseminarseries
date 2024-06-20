@@ -33,7 +33,7 @@
 
 ### Previous Speakers 
 
-{% for sem in site.data.sem2_2024 %}
+{% for sem in site.data.sem1_2024 %}
 {% if sem.speaker %}
 {{ sem.speaker }}
 {% if sem.affiliation %} 
