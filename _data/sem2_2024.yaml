@@ -1,4 +1,3 @@
-
 - week: 0
   date: July 24
   fulldate: 2024-07-24
@@ -25,7 +24,7 @@
   title:
   abstract:
   notes:
-  
+
 - week: 2
   date: Aug 7
   fulldate: 2024-08-07
@@ -40,8 +39,8 @@
   fulldate: 2024-08-14
   speaker: Holly Lawford-Smith
   affiliation: University of Melbourne
-  title:
-  abstract:
+  title: Feminism Beyond Left and Right
+  abstract: "Target claim: feminists should not work with the right. This claim has multiple moving parts (‘feminists’, ‘the right’) and involves a moral imperative, to do with working together with others, that is not been particularly well-theorised. I’ll offer a definition of feminism that should be acceptable to many different types of feminists; assess the question of whether ‘the right’ can be given any meaningful content; and draw on some recent philosophical work that can be adapted to answer ethical questions about working together with others in pursuit of shared political ends. I’ll argue that only if we collapse the moral/political distinction and conflate left/right with good/bad can we get any traction on the idea that feminists should not work with the right."
   notes:
 
 - week: 4
@@ -74,8 +73,8 @@
 - week: 7
   date: Sep 11
   fulldate: 2024-09-11
-  speaker: Stephen Finlay 
-  affiliation: 
+  speaker: Stephen Finlay
+  affiliation:
   title:
   abstract:
   notes:
@@ -93,7 +92,7 @@
   date: Sep 25
   fulldate: 2024-09-25
   speaker: David Bronstein
-  affiliation: University of Notre Dame (Sydney) 
+  affiliation: University of Notre Dame (Sydney)
   abstract:
   notes:
 
