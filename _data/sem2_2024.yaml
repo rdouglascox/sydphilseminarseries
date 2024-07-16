@@ -21,8 +21,8 @@
   fulldate: 2024-08-01
   speaker: David Enoch
   affiliation: Hebrew University of Jerusalem
-  title:
-  abstract:
+  title: Why isn’t (purely) epistemic autonomy of value?
+  abstract: "In the practical domain, there are some decisions such that it’s more important that the agent make them herself than that they make the best decision. (Think, for instance, about choosing a romantic partner). In such cases, it seems like a rational agent may insist on making the decision themselves, fully recognizing that if they let someone else decide for them, the decision may be (otherwise) better. In the epistemic case, though, there doesn’t seem to be an analogue of this phenomenon. If I wonder whether p; it seems to me when I consider the first-order evidence that p; but I recognize that my chances of getting to a true belief regarding p are much higher if I rely on you instead; and you say that not-p – well, in such a case it seems a belief in p is never epistemically justified. This paper is my (tentative, and not systematic) attempt to think through this disanalogy between the role of autonomy in the epistemic and practical domain."
   notes:
 
 - week: 2
