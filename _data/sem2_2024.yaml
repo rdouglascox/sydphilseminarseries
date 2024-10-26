@@ -139,20 +139,20 @@
   speaker: Hong Yu Wong
   affiliation: Tübingen
   title: 'Studying Artificial Agency: a Methodological Proposal'
-  abstract: > 
+  abstract: | 
       Can artificial systems act? In the literature we find two camps:
       sceptics and believers. But the issue of whether artificial systems
       can act and, if so, how, has not been systematically discussed. This
       is a foundational question for the ethics of AI. I sketch a
       methodological approach to investigating the agency of artificial
-      systems from architectural and behavioural perspectives.
+      systems from architectural and behavioural perspectives.\n\n
       
       The architectural approach emphasises that certain kinds of underlying
       mechanism or organisational structures are required for the capacity
       to act. The approach is like that of a physiologist. From this
       perspective, agency is one of the proper functions of the organism and
       the aim is to understand the underlying mechanisms which underpin it
-      (Tomasello 2022).
+      (Tomasello 2022).\n\n
       
       In contrast, the behavioural approach stresses not internal structure,
       but behaviour.  Does the system look like it is acting? (Turing 1950.)
@@ -161,14 +161,14 @@
       biologist/anthropologist encountering a new species/system in a ‘first
       contact’ situation. They can’t analyse the system by understanding its
       internal structure and dynamics. All they have is behavioural
-      observation.
+      observation.\n\n
       
       As examples, I will examine two case studies: AlphaGo and ChatGPT3. I
       argue that future research must combine both architectural and
       behavioural perspectives so as to make progress. This will allow us to
       have more fine-grained analysis of the specific capacities underlying
       general behavioural abilities, so that we can be confident of genuine
-      competence at some level.
+      competence at some level.\n\n
   notes:
 
 - week: 14
