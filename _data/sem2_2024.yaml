@@ -139,7 +139,7 @@
   speaker: Hong Yu Wong
   affiliation: Tübingen
   title: 'Studying Artificial Agency: a Methodological Proposal'
-  abstract: | 
+  abstract: > 
       Can artificial systems act? In the literature we find two camps:
       sceptics and believers. But the issue of whether artificial systems
       can act and, if so, how, has not been systematically discussed. This
@@ -168,7 +168,7 @@
       behavioural perspectives so as to make progress. This will allow us to
       have more fine-grained analysis of the specific capacities underlying
       general behavioural abilities, so that we can be confident of genuine
-      competence at some level.\n\n
+      competence at some level.
   notes:
 
 - week: 14
