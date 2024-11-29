@@ -1,4 +1,4 @@
-### Sem 2, 2024
+### Sem 1, 2025
 
 <ul>
 {% for sem in site.data.sem1_2025 %}
