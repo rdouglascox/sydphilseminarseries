@@ -1,7 +1,7 @@
 ### Sem 2, 2024
 
 <ul>
-{% for sem in site.data.sem2_2024 %}
+{% for sem in site.data.sem1_2025 %}
     {% if sem.week %}
     <li><b>Week {{ sem.week }}
     {% endif %}
@@ -33,4 +33,4 @@
 
 ### Previous Speakers 
 
-{% for sem in site.data.sem1_2024 reversed %}{% if sem.speaker %}{{ sem.speaker }}{% if sem.affiliation %} ({{ sem.affiliation }}){% endif %}{% endif %}, {% endfor %}...
+{% for sem in site.data.previous reversed %}{% if sem.speaker %}{{ sem.speaker }}{% if sem.affiliation %} ({{ sem.affiliation }}){% endif %}{% endif %}, {% endfor %}...
