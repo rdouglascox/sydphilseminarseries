@@ -14,7 +14,9 @@
   speaker: Mircea Dumitru
   affiliation: University of Bucharest
   title: Representations, Models, and Proofs/Rules
-  abstract: 
+  abstract: |
+    In this paper I present and assess, firstly independently from one another, and then comparatively, the strengths and the weaknesses of three views on semantics: model-theoretic, truth-conditional, and proof-theoretic. The whole philosophical perspective from which I explore those three approaches is motivated by the investigation of the connection between truth and meaning, and also by the understanding of the role and place of meaning within a physicalist outlook of the world. I also hint at how one can combine and coordinate those three approaches depending on the philosophical issues which those systems seek to model. In the process, I present the philosophical rich and nuanced positions of Donald Davidson who pioneered the Tarski-type truth-conditional semantics for natural languages, and of Wilfrid Sellars who made an essential contribution to the understanding of both semantic and pragmatic aspects of the relations between truth and meaning from an inferentialist (proof) based perspective. The paper sketches how certain problems within the Davidsonian framework can be fixed within the Sellarsian framework. The paper ends with some critical points and challenges that I raise against the proof-theoretic (inferentialist) approach questioning its power to give a complete account of the issue of the relationship between truth, meanings, and rules.
+
   notes:
 
 - week: 2
