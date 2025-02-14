@@ -21,7 +21,7 @@ TZOFFSETFROM:+1000
 TZOFFSETTO:+1100
 END:DAYLIGHT
 END:VTIMEZONE
-METHOD:PUBLISH{% for sem in site.data.sem1_2024 %}
+METHOD:PUBLISH{% for sem in site.data.sem1_2025 %}
 BEGIN:VEVENT
 UID:{{ sem.fulldate | date: "%Y%m%d" }}@sydney.edu.au
 ORGANIZER;CN="Ryan Cox":MAILTO:ryan.cox@sydney.edu.au
