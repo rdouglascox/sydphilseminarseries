@@ -25,8 +25,9 @@
   fulldate: 2025-03-05
   speaker: Markus Pantsar
   affiliation: RWTH Aachen University, Germany
-  title: 
-  abstract: 
+  title: Recognizing artificial mathematical intelligence in theorem proving
+  abstract: |
+    One key question in the philosophy of artificial intelligence (AI) concerns how we can recognize artificial systems as intelligent. To make the general question more manageable, I focus on a particular type of AI, namely one that can prove mathematical theorems. The current generation of automated theorem provers are not understood to possess intelligence, but in my thought experiment an AI provides humanly interesting proofs of theorems and communicates them in human-like manner as scientific papers. I then ask what the criteria could be for recognizing such an AI as intelligent. I propose an approach in which the relevant criteria are based on the AI’s interaction within the mathematical community. Finally, I ask whether we can deny the intelligence of the AI in such a scenario based on reasons other than its (non-biological) material construction.
   notes:
 
 - week: 3
