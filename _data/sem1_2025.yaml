@@ -114,8 +114,9 @@
   fulldate: 2025-05-14
   speaker: Chris Cousens 
   affiliation: University of Glasgow
-  title: 
-  abstract: 
+  title: Workplace Relations and Artificial Speech Acts
+  abstract: |
+    Speech acts—the things we do with words—are used to structure normative relations with those around us. In promising, I undertake an obligation to you; in ordering, I impose an obligation upon you. This is particularly important in the workplace, where we use speech acts to hire people, promote them, and fire them. Nowadays, many of these speech acts are delivered online—often via email. Recently in the U.S.A., thousands of government employees were fired (and some later re-hired) by email. But thanks to the proliferation of large language models (LLMs), these emails are no longer always issued by a human ‘speaker’. This changes the norms governing online communication. How should we respond to online ‘speech acts’ when they are authored by AI? What about when we do not know if they are AI generated? I will argue that LLMs can perform genuine speech acts that affect our normative statuses; they are no mere ‘stochastic parrots’ (Bender et al. 2021) or ‘bullshitters’ (Hicks, Humphries, and Slater 2024). Traditional speech act theories suggest that the ‘force’ of our speech acts is determined by the intention of the speaker or the uptake of the audience. LLM speech acts challenge this, and so I sketch out an alternative speech act theory that grounds illocutionary force in the ‘conversational score’ (Lewis 1979). 
   notes:
 
 
