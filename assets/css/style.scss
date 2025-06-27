@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
-h1, h2, h3 {
+a {
   color: #F26F21;
+}
+
+
+a:hover {
+  color: #F26F21;
+  font-weight: bold;
 }
