@@ -369,3 +369,166 @@
       
       After taxonomizing different kinds of historical contextualizing, I argue that historical elucidation is, in fact, a coherent, substantive direction of inquiry for social constructionists. The two most promising options are conceiving of socially constructed racial categories as either (1) institutional, in which case they're tied to institutions whose identity-conditions are essentially path-dependent, or (2) functional kinds serving a larger role within background institutions. I end by arguing that both options vindicate historical elucidation... in some cases. With luck, historical elucidation reveals the very nature of race.
   notes: 
+
+- week: 0
+  date: Feb 19
+  fulldate: 2025-02-19
+  speaker: Melina Tsapos
+  affiliation: Lund University, Sweden
+  title: What is Interesting about Conspiracy Theories?
+  abstract: | 
+    A central debate in conspiracy theory research concerns how to conceptualize conspiracy theories in a way that advances our understanding of the phenomena and those who believe in them. This debate remains unresolved, with researchers adopting widely different positions: while some argue for a purely descriptive understanding, others seem strongly committed to the view that conspiracy theories are, or can be shown to be, inherently irrational. This paper reconstructs the controversy, arguing that it stems from two distinct scholarly motives: to attain objective knowledge of the phenomena in question versus to defend beliefs and norms that are part of the researcher’s own cultural context. By examining the epistemological and methodological challenges in this field, I highlight how competing frameworks—normative cultural biases versus objective scientific inquiry—shape our understanding of rational belief. When cultural biases influence research, they risk narrowing its scope and undermining the development of a comprehensive understanding of conspiracy theories. Ultimately, even proponents of normative cultural approaches can acknowledge that such perspectives fail to capture the full complexity and significance of these phenomena
+  notes:
+
+- week: 1
+  date: Feb 26
+  fulldate: 2025-02-26
+  speaker: Mircea Dumitru
+  affiliation: University of Bucharest
+  title: Representations, Models, and Proofs/Rules
+  abstract: |
+    In this paper I present and assess, firstly independently from one another, and then comparatively, the strengths and the weaknesses of three views on semantics: model-theoretic, truth-conditional, and proof-theoretic. The whole philosophical perspective from which I explore those three approaches is motivated by the investigation of the connection between truth and meaning, and also by the understanding of the role and place of meaning within a physicalist outlook of the world. I also hint at how one can combine and coordinate those three approaches depending on the philosophical issues which those systems seek to model. In the process, I present the philosophical rich and nuanced positions of Donald Davidson who pioneered the Tarski-type truth-conditional semantics for natural languages, and of Wilfrid Sellars who made an essential contribution to the understanding of both semantic and pragmatic aspects of the relations between truth and meaning from an inferentialist (proof) based perspective. The paper sketches how certain problems within the Davidsonian framework can be fixed within the Sellarsian framework. The paper ends with some critical points and challenges that I raise against the proof-theoretic (inferentialist) approach questioning its power to give a complete account of the issue of the relationship between truth, meanings, and rules.
+
+  notes:
+
+- week: 2
+  date: March 5
+  fulldate: 2025-03-05
+  speaker: Markus Pantsar
+  affiliation: RWTH Aachen University, Germany
+  title: Recognizing artificial mathematical intelligence in theorem proving
+  abstract: |
+    One key question in the philosophy of artificial intelligence (AI) concerns how we can recognize artificial systems as intelligent. To make the general question more manageable, I focus on a particular type of AI, namely one that can prove mathematical theorems. The current generation of automated theorem provers are not understood to possess intelligence, but in my thought experiment an AI provides humanly interesting proofs of theorems and communicates them in human-like manner as scientific papers. I then ask what the criteria could be for recognizing such an AI as intelligent. I propose an approach in which the relevant criteria are based on the AI’s interaction within the mathematical community. Finally, I ask whether we can deny the intelligence of the AI in such a scenario based on reasons other than its (non-biological) material construction.
+  notes:
+
+- week: 3
+  date: March 12
+  fulldate: 2025-03-12
+  speaker: Peter Godfrey-Smith 
+  affiliation: University of Sydney
+  title: Tolerance, Autonomy, and Free Expression
+  abstract: |
+    Problems surrounding “toleration of the intolerant” are addressed by Ben Kerr and I with a hierarchical framework that explicitly distinguishes levels of tolerance and intolerance. This talk will look at the application of the framework to free expression. The “Voltairean principle” formulated by Evelyn Beatrice Hall – "I disapprove of what you say, but I will defend to the death your right to say it” – illustrates the themes. With the framework in place, I'll look at arguments bearing on tolerance of the expression of controversial opinions, making use of Tim Scanlon’s 1972 paper “A Theory of Freedom of Expression.”
+  notes:
+
+- week: 4
+  date: March 19
+  fulldate: 2025-03-19
+  speaker: Richard Bett
+  affiliation:  Johns Hopkins University
+  title: | 
+    A Dose of Medicine in Sextus Empiricus' Philosophy
+  abstract: | 
+    Sextus Empiricus was a doctor, a member of the Empiric school, as well as a skeptical philosopher. There are clear links between Empiricist medicine and his brand of skepticism. The use of medical analogies in Greek philosophy goes back at least to Plato. But how far does Sextus appeal to medical analogies in explaining his own philosophy? The answer is, less than we might have expected, even though he often uses examples from medicine. But perhaps he took the general analogy between skepticism and medicine for granted. It is also worth asking how far viewing his skeptical method in light of the medical analogy is helpful for us in understanding him. Here too, there may be limits to how illuminating this is; however, there are certainly connections worth exploring.
+  notes:
+
+- week: 5
+  date: March 26
+  fulldate: 2025-03-26
+  speaker: Stephanie Sheintul 
+  affiliation: University of Adelaide 
+  title: Rights, Powers, and Paternalism
+  abstract: | 
+    It is controversial when we are morally permitted to act for another’s good. Some suggest that we are rarely permitted to do so given that competent adults have a pro tanto claim right to be the only ones to act only or primarily for their own good. Others suggest that people have a special moral power over their good – what has been called the power of prudential exclusion (PPE) – such that they can exclude us from acting for their good when it would otherwise be permissible for us to do so. I have three aims in this paper. The first is to argue that, rather than the aforementioned right, competent adults more plausibly have a pro tanto claim right against others acting to promote their good for a particular set of well-being-related second-order reasons. Specifically, according to this right, others must not promote their good for the reason that (a) they are unlikely to (or will not) deliberate, judge, or act in their best interests and/or that (b) their judgment or decision about what is valuable or in their best interests is mistaken and/or inferior to the acting agent’s. The second is to introduce a corollary power to the PPE – what I call the power of prudential inclusion (PPI) – which holds that we have the moral power to give others permission to act for our good when it would otherwise be impermissible for them to do so. The third is to sketch a novel rights-based anti-paternalist account based on the right that I (partly) defend we have.
+  notes:
+
+- week: 6
+  date: April 2
+  fulldate: 2025-04-02
+  speaker: Ryan Cox
+  affiliation: University of Sydney
+  title: Educational Justice as Fairness 
+  abstract: | 
+    Most, if not all, systems of education in advanced industrial societies fail to give all participants within them a fair chance. They are, in this respect, unfair. What makes them unfair? And what would it take to give all participants a fair chance? According to the dominant improper influence approach, they are unfair because some differences in educational outcomes within those systems of education are due to differences in things like social class background—things that are improper influences on differences in educational outcomes. To give all individuals a fair chance, on such an approach, would be to eliminate all such influences. In this presentation, I point to some difficulties with the improper influence approach and introduce a new approach to fairness in education: the fair chance approach. I argue that the fair chance approach provides a better explanation of what makes systems of education unfair when they are, and of what it would take to give all participants within them a fair chance.
+  notes:
+
+- week: 7
+  date: April 9
+  fulldate: 2025-04-09
+  speaker: No seminar this week. Julius Stone law lecture.
+  affiliation:
+  title: 
+  abstract: 
+  notes: RC in US
+
+
+- week: 8
+  date: April 16
+  fulldate: 2025-04-16
+  speaker: No seminar this week. Pacific APA. 
+  affiliation:
+  title: 
+  abstract: 
+  notes: RC in US
+
+- week: 9
+  date: April 30
+  fulldate: 2025-04-30
+  speaker: Philippe Chuard
+  affiliation: Southern Methodist University, Dallas
+  title: Postdictive Explanations
+  abstract: | 
+    In the past 20 years or so, a number of cognitive psychologists and neuroscientists—some philosophers even—have advanced so-called “postdictive” models for a variety of perceptual phenomena, including the perception of causation, colour-motion visual asynchrony, etc. Some have suggested that such postdictive mechanisms could naturally account for backward masking and beta-motion. The heralded paradigm which all these attempts invariably appeal to is Eagleman and Sejnowski’s explanation of the flash-lag effect (2000) as the first successful instance of postdiction. Yet, two things should strike us as odd in this kind of rationale for postdiction. For one thing, none of these later appeals to postidiction seem to mean what Eagleman and Sejnowski mean by that notion. Indeed, as we’ll see, there are in fact 4 notions of “postdiction”, and later uses don’t entail Eagleman and Sejnowski’s initial notion. For another, Eagleman and Sejnowski’s postdictive explanation of the flash-lag effect isn’t as successful as it is widely assumed to be.
+  notes: 
+
+- week: 10
+  date: May 7
+  fulldate: 2025-05-07
+  speaker: Matthew Hammerton
+  affiliation: Singapore Management University
+  title: Work, Leisure, and the Sources of Meaning in Life
+  abstract: | 
+    I begin with the question ‘what is work?’ Many argue that ‘work’ is a hopelessly indeterminate term that cannot be adequately defined. Against this view, I develop and defend an account of what work is. Building on this, I then develop accounts of three other types of human activity that can be contrasted with work: leisure, self-development, and engaging in a relationship. With four main types of human activity defined, I then give an account of how each activity can be a source of meaning in life and fit this into a more general view about the sources of meaning in life. Finally, I connect this discussion to debates about the role that work should play in human lives.   
+  notes:
+
+- week: 11
+  date: May 14
+  fulldate: 2025-05-14
+  speaker: Chris Cousens 
+  affiliation: University of Glasgow
+  title: Workplace Relations and Artificial Speech Acts
+  abstract: |
+    Speech acts—the things we do with words—are used to structure normative relations with those around us. In promising, I undertake an obligation to you; in ordering, I impose an obligation upon you. This is particularly important in the workplace, where we use speech acts to hire people, promote them, and fire them. Nowadays, many of these speech acts are delivered online—often via email. Recently in the U.S.A., thousands of government employees were fired (and some later re-hired) by email. But thanks to the proliferation of large language models (LLMs), these emails are no longer always issued by a human ‘speaker’. This changes the norms governing online communication. How should we respond to online ‘speech acts’ when they are authored by AI? What about when we do not know if they are AI generated? I will argue that LLMs can perform genuine speech acts that affect our normative statuses; they are no mere ‘stochastic parrots’ (Bender et al. 2021) or ‘bullshitters’ (Hicks, Humphries, and Slater 2024). Traditional speech act theories suggest that the ‘force’ of our speech acts is determined by the intention of the speaker or the uptake of the audience. LLM speech acts challenge this, and so I sketch out an alternative speech act theory that grounds illocutionary force in the ‘conversational score’ (Lewis 1979). 
+  notes:
+
+
+- week: 12
+  date: May 21
+  fulldate: 2025-05-21
+  speaker: Tyler Paytas
+  affiliation: Australian Catholic University, Sydney
+  title: Stoic Faith
+  abstract: |
+    The human condition is inherently challenging. Our lives are coloured by toil, limitation, pain, illness, impermanence, and death. Added to these obstacles is an apparent lack of moral economy in the universe. These circumstances render us susceptible to mental disturbance in the form of despair, nihilism, anxiety, and grief. Ancient spiritual traditions aim to provide a bulwark against these afflictions by reframing the human condition in a manner that allows us to face it with equanimity and courage. In the Western context, two traditions have been particularly influential. Christianity teaches that while the human condition is fundamentally bad in several respects (e.g., suffering, sin, death), thanks to God’s grace, the faithful can look forward to an afterlife that is free from the woes of terrestrial existence. Stoicism proceeds by challenging common assumptions about value and well-being; pain, illness, and death are not bad for us because well-being depends solely on virtue. In this paper, I argue that accepting the Stoic account of well-being, which is the core Stoic doctrine, is ultimately a matter of faith, and that we have good reasons to cultivate this faith. I also argue that Stoic faith is more attainable and stable than conventional religious faith. 
+  notes:
+
+- week: 13
+  date: May 28
+  fulldate: 2025-05-28
+  speaker:
+  affiliation: 
+  title: 
+  abstract: 
+  notes:
+
+- week: Out of Semester Seminar
+  date: Jun 4
+  fulldate: 2025-06-26
+  speaker: Benjamin McKean
+  affiliation: Ohio State University
+  title: Is despair an obstacle to climate justice?
+  abstract: | 
+    Is hope a prerequisite to political action against climate catastrophe? Is despair of making no difference a major obstacle to such action? Many assume the answer to both questions is yes. Advocates like Andreas Malm argue that we need to demonstrate the efficacy of individual action today to thwart despair while philosophers like Allen Thompson draw from Jonathan Lear’s conception of “radical hope” to argue that we have reason to be hopeful about a future beyond our present understanding. But these approaches to generating hope don’t engage effectively with our political context, in which few people experience political efficacy. And they lack an adequate moral psychology, which I show through an analysis of Malm’s critique of pacifism. Unfortunately, despair is an appropriate response to our circumstances. In place of trying to generate hope, I argue that we need a more present-oriented approach to motivating people to act for climate justice that doesn’t depend on uncertain future effects.
+  notes:
+
+- week: Out of Semester Seminar
+  date: Jun 18
+  fulldate: 2025-06-18
+  speaker: Finnur Dellsén
+  affiliation: University of Iceland
+  title: |
+    Abduction: The Glory and Scandal of Philosophy?
+  abstract: |
+     C.D. Broad referred to inductive reasoning as “the glory of science and the scandal of philosophy”. Broad's point was that while scientists frequently use inductive reasoning, philosophers have not yet provided any convincing justification for this practice. I suggest that an analogous claim is true of abductive reasoning in philosophy: while we philosophers frequently use abductive reasoning, usually in the form of Inference to the Best Explanation, we have not yet provided any convincing justification for this practice. I focus on three problems that arise for abductive reasoning in philosophy: (i) all the explanatory theories that are available may be false; (ii) there may be multiple rival explanations that are nearly as plausible as the best one; and (iii) the evidence from which one is inferring may itself be uncertain. In response to these problems, I argue that we should reconceive of the structure of abductive reasoning in philosophy so that, in most cases, it licenses a substantially more modest type of conclusion than it has previously been thought to do.
+  notes:
+
