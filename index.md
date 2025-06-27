@@ -1,7 +1,7 @@
 ### Sem 1, 2025
 
 <ul>
-{% for sem in site.data.sem1_2025 %}
+{% for sem in site.data.sem2_2025 %}
     {% if sem.week %}
     <li><b>Week {{ sem.week }}
     {% endif %}
