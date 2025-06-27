@@ -31,504 +31,90 @@
   affiliation: Northeastern University London
 - speaker: Matthew Slater
   affiliation: Bucknell University
-
-- week: 1
-  date: Feb 21
-  fulldate: 2024-02-21
-  speaker: Emanuel Viebahn
+- speaker: Emanuel Viebahn
   affiliation: FU Berlin
-  title: Is lying morally wrong?
-  abstract: >
-    While few hold that lying is always morally wrong all things considered, many take lying to be pro tanto (or prima facie) morally wrong. This talk will explore whether the view that lying is pro tanto morally wrong can be grounded in features essential to lying. The talk will focus on two features commonly thought to be essential to lying: deceptive intent and assertoric responsibility. Taking into account recent work on the nature of lying and assertion, I will argue there are cases in which neither deceptive intent nor assertoric responsibility can ground the pro tanto moral wrongness of lying.
-  notes:
-
-- week: 2
-  date: Feb 28
-  fulldate: 2024-02-28
-  speaker: Kyle Blumberg
+- speaker: Kyle Blumberg
   affiliation: University of Melbourne
-  title: Fictional Reality (joint work with Ben Holguín)
-  abstract: This paper defends a theory of fictional truth. According to this theory, there is a fact of the matter concerning the number of hairs on Sherlock Holmes' head, and likewise for any other meaningful question one could ask about what's true in a work of fiction. We argue that a theory of this form is needed to account for the patterns in our judgments about attitude reports that embed fictional claims. We contrast our view with one of the dominant approaches to fictional truth, which originates with David Lewis. Along the way we explore the relationship between fiction, counterfactuals, and vagueness.
-  notes:
-
-- week: 3
-  date: Mar 6
-  fulldate: 2024-03-06
-  speaker: Peter Millican
+- speaker: Peter Millican
   affiliation: Oxford University and National University of Singapore
-  title: Hume and Hájek on Miracles
-  abstract: My aim here is to outline and then assess the force of Hume’s famous argument against the credibility of testimony for miracles, particularly in the light of Alan Hájek’s influential recent defence of the argument against what he describes as ‘the single most common sort of objection’ to it.  Hájek’s defence, I maintain, hinges on a confusion between prior and posterior probabilities (of which there is also a hint in Hume’s text), and once this is recognised, we can see that Hume’s “general maxim” cannot easily be revised to evade the objection.  The principle behind Hume’s argument nevertheless retains significant force against testimony for events that are acknowledged to be initially improbable (with various significant caveats regarding ‘analogical probability’ which Hájek insightfully explores).  But it is not clear that this force can legitimately be carried over – as Hume seems to assume – to the case of miracles as he defines them.  Instead, I suggest, rational rejection of miracles depends primarily on rejection of the ‘invisible agents’ that are supposed to perform them, appealing more to the considerations in the second ‘a posteriori’ part of Hume’s essay than to the ‘a priori’ first part.
-  notes:
-
-- week: 4
-  date: Mar 13
-  fulldate: 2024-03-13
-  speaker: Anna Smajdor
+- speaker: Anna Smajdor
   affiliation: University of Oslo
-  title: Epigenetics and the non-identity problem
-  abstract: "The ‘non-identity problem’ has profoundly influenced the ways in which philosophers think about harm in reproductive ethics. Suppose, for example, that a woman is undergoing treatment for syphilis. If she becomes pregnant now, rather than waiting until she is cured, the child will suffer from congenital syphilis. Derek Parfit suggests that our intuition that the child is harmed if the woman fails to wait, is false. If she waits, she will have a different child: one conceived with different gametes. Parfit’s point has been taken by many commentators, to indicate a specifically genetic account of identity. But with increased understanding of epigenetics, it is not so clear that genetic identity is fixed from conception. A variety of environmental factors determine whether specific genes are silenced, or active before conception and after, and to what degree.  This process - epigenetics - calls into question the relationship between genes and identity. Accordingly, the distinction between harmful and identity-changing genetic interventions becomes difficult to sustain. In this paper, I will explore several approaches to understanding the relationship between genes, harm and identity, in ways that preserve our fundamental intuitions. Ultimately, I conclude that it is not possible to sustain both a genetic understanding of identity, and a belief that some genetic interventions are harmful (or therapeutic) and others identity-changing, whether in the conception phase or afterwards."
-  notes:
-
-- week: 5
-  date: Mar 20
-  fulldate: 2024-03-20
-  speaker: Brian Epstein
+- speaker: Brian Epstein
   affiliation: Tufts
-  title: How to theorize about social construction
-  abstract: The claim that basic kinds and categories in the world are “socially constructed” is perennially debated in philosophy and social theory. Over the years, lots of categories—races, genders, sexes, morality, commodities, corporations, and many more—have been put forward as cases of social construction. But what is social construction, and how is a theory of social construction to be developed and assessed? I propose a framework for understanding the metaphysics of social entities by distinguishing questions of social construction (i.e., what socially constructs the entity to be what it is) from questions about the characteristics of the entity (i.e., what is the product of social construction). Focusing on the former, I consider families of theories of social construction and argue for the demands that a theory of social construction should meet.
-  notes:
-
-- week: 6
-  date: Mar 27
-  fulldate: 2024-03-27
-  speaker: Sam Shpall
+- speaker: Sam Shpall
   affiliation: University of Sydney
-  title: Limerence
-  abstract: "I explore the psychologist Dorothy Tennov's (1979) largely neglected account of limerence—or, very roughly, the experience of being in love. I argue that several core features of Tennov's account are distinctive and insightful; that the concept of limerence helps us address deep confusion in our thinking about sex and love; and that reflecting on limerence may give us useful perspective on significant relationship practices like cohabitation, monogamy, and co-parenting. "
-  notes:
-
-- week: 7
-  date: Apr 10
-  fulldate: 2024-04-10
-  speaker: Alex Kocurek
+- speaker: Alex Kocurek
   affiliation: Cornell
-  title: Verbal Disputes and Metadisputes
-  abstract: "Impasses in philosophical discourse often prompt us to question the very nature of the dispute at hand. Is there a fact of the matter as to which side is right? Or does the answer simply turn on, as Carnap would put it, a choice of linguistic framework? Such questions have given rise to metadisputes, which, ironically, have become just as intractable as the first-order disputes they are about. This talk explores the possibility that these metadisputes themselves might be verbal. I propose a general framework for analyzing verbal disputes that can shed light on this possibility and argue that identifying whether a dispute is verbal ultimately hinges on one’s metasemantic views and that, in some instances, might entail there is no factual resolution to the question. I’ll consider how to theorize about such higher-order matters and explore some of the ramifications this view would have for philosophical methodology."
-  notes:
-
-- week: 8
-  date: Apr 17
-  fulldate: 2024-04-17
-  speaker: Jordi Fernandez
+- speaker: Jordi Fernandez
   affiliation: University of Adelaide
-  title: Imagination and the paradox of fiction
-  abstract: >
-    When we engage with fiction, we seem to have emotions towards fictional characters.
-    However, one would think that, in order to have an emotion towards someone, it is
-    necessary to believe that they are real. And we do not believe that fictional characters
-    are real. I argue that a solution to this puzzle can be found in a certain view about
-    imaginative content. This is the view that, when one reads about a situation or an event
-    involving some fictional character, and one forms a mental image as a result, what one
-    imagines, strictly speaking, is that if one experienced the relevant situation or event,
-    then that experience would be, for one, like having the mental image that one is
-    entertaining. I motivate this view, and use it to propose a solution to the paradox of
-    fiction. The proposal is that, when we engage with fiction, we do not have emotions
-    towards fictional characters after all. At best, we entertain those emotions by having
-    other higher-order mental states which are about them, namely, our imaginative
-    episodes. The proposed solution, I argue, can explain why it feels to us as if we are
-    having emotions towards fictional characters when we engage with fiction, and why,
-    nevertheless, we are not disposed to behave in any particular way towards those
-    characters.
-  notes:
-
-- week: 9
-  date: Apr 24
-  fulldate: 2024-04-24
-  speaker: Glen Pettigrove
+- speaker: Glen Pettigrove
   affiliation: University of Glasgow
-  title: "The Well-Tempered Musician: On the Virtue of Obedience and the Value of Tradition" 
-  abstract: "At the time Thomas Aquinas wrote the Summa Theologia, no one would have been surprised to find him arguing that obedience is a moral virtue.  They are not even likely to have been taken aback by the claim that it ‘is more praiseworthy than the other moral virtues’ (ST II-II, Q 104, A 3).  Eight centuries later, the situation is decidedly different.  Far from arguing for its pre-eminence, the average 21st century western reader is more likely to be sceptical about the claim that obedience is a virtue.  We will admit that in some domains a readiness to take orders is necessary, such as within a military command structure.  But even here we are likely to think it more a necessary evil than a kind of excellence.  The one exception might be among children, and it is a trait we expect them to grow out of. Against this backdrop, Christine Swanton’s recent call for virtue theorists to revive the virtue of obedience will come as a surprise (2021, 270-271).  Swanton recommends thinking about obedience as a role-based virtue.  This strikes us as promising.  If there is such a virtue, it makes sense to think of it as partly defined by social roles.  Our aim is to explore the contours of obedience and consider whether it can help us address a lively debate in the philosophy of music regarding the obligations of classical performers."
-  notes:
-
-- week: 10
-  date: May 1
-  fulldate: 2024-05-01
+- speaker: Inês Hipólito
   affiliation: Macquarie University
-  speaker: Inês Hipólito
-  title: "The Human Roots of AI"
-  abstract: "In the era of intertwined human and AI-generated content, understanding their impact on cultural practices is crucial. AI-driven decision-making systems significantly influence cognition and societal well-being, yet biases towards Western perspectives risk neglecting diverse knowledge systems and cultural identities. Philosophical inquiries into AI's ontology raise profound societal implications, while viewing AI as a cultural product offers insights into its reciprocal relationship with cultural practices. This paper explores the interplay among culture, cognition, and AI to understand their implications for knowledges, cultural identities, and human narratives."
-  notes:
-
-- week: 11
-  date: May 8
-  fulldate: 2024-05-08
-  speaker: Alex Lefebvre
+- speaker: Alex Lefebvre
   affiliation: University of Sydney
-  title: "Liberalism as a Way of Life"
-  abstract: "This presentation is based on my forthcoming book, Liberalism as a Way of Life, and is about how liberal values and practices can be the basis for a personal worldview, way of living, and spiritual orientation. You don’t have to be liberal and something else, such as Christian, Buddhist, Kantian, hedonist, utilitarian, or whatever else. It is fully possible and rewarding to be liberal through and through. This means that the values and attitudes enshrined in liberal political institutions, and ubiquitous in the background culture of liberal democracies – such as reciprocity, tolerance, personal freedom, impartiality, equality of opportunity, and irony – have the potential to inform a much more general sensibility, one that is supple enough to be realized in all different aspects of life: from family to the workplace, from friendship to enmity, from humour to outrage, and everything in between. " 
-  notes: "Alexandre Lefebvre is Professor of Politics and Philosophy at the University of Sydney. He is the author of Liberalism as a Way of Life (Princeton 2024), Human Rights and the Care of the Self (Duke 2018), Human Rights as a Way of Life: on Bergson’s Political Philosophy (Stanford 2013), and The Image of Law: Deleuze, Bergson, Spinoza(Stanford 2008)."
-
-- week: 12
-  date: May 15
-  fulldate: 2024-05-15
-  speaker: Thomas Corbin (joint work with Gene Flenady)
+- speaker: Thomas Corbin
   affiliation: Macquarie University
-  title: "Teaching Philosophy in the Age of GenAI"
-  abstract: "Generative AI (GenAI) has made teaching philosophy difficult. As the technology improves, and as other departments and faculties develop discipline appropriate adaptations, thing will get worse. One reason for this is simply that many of the solutions being proposed in other disciplines, for instance ‘authentic assessment’, work-integrated-learning, and practice-based assessments, do not easily apply to us. This difficulty demands at least two things of philosophy teachers and departments. Firstly, an awareness of philosophy’s unique position within the ‘GenAI University’. Secondly, an awareness of the challenges GenAI either creates or shines a light on.  This talk covers both of these issues and will suggest three areas that demand our attention in particular: AI grading and tutoring systems, AI and assessment, and AI and philosophical reading. This talk will explain what is at stake in each of these three areas and present, if not solutions, at least ways of appropriately articulating the problem and the kinds of solutions available."
-  notes: "Thomas Corbin is a Research Fellow in the Centre for Research in Assessment and Digital Learning (CRADLE) at Deakin University. His main focus is on Generative AI, particularly with a view to assessment. Dr Corbin leads a multi-institution research team working on the project 'Teaching the Humanities in the Age of GenAI,' which explores the challenges and opportunities presented by GenAI in humanities education, particularly within philosophy units operating in Australian Universities. Gene Flenady is a lecturer in philosophy at Monash University. His research concerns the structure and social conditions of human rational agency, mobilising the resources of the German idealist tradition to normatively assess the implications of new technologies for meaningful work and tertiary pedagogy."
-
-- week: 13
-  date: May 22
-  fulldate: 2024-05-22
-  speaker: Luara Ferracioli    
+- speaker: Luara Ferracioli    
   affiliation: University of Sydney
-  title: "Justice in Gestation and Moral Integrity: A Dilemma"
-  abstract: "Political philosophers have recently turned to the topic of justice in gestation, emphasising that the uterine environment contributes to future health outcomes and talents enjoyed in adulthood. In this presentation, I argue that bringing justice to bear on gestation is more difficult than it may seem at first glance. The fact that there are no unmediated channels between foetuses and the state makes foetuses among the least accessible subjects of justice. It also means that for the state to protect the interests of foetuses, it must command full compliance on the part of pregnant women, which comes at a very high cost to this group. I show that even the most plausible principle of justice in gestation leads to the state demanding the unthinkable from some of its citizens. I conclude the discussion by defending a solution that allows the state to realise justice for biological parents and their foetuses."
-  notes:
-
-- week: 0
-  date: July 24
-  fulldate: 2024-07-24
-  speaker: Neil Mehta
+- speaker: Neil Mehta
   affiliation: Yale-NUS College
-  title: "A natural argument for contextualism"
-  abstract: "In the debate between contextualist and moderate invariantist theories of knowledge, linguistic data have been the primary focus. In this paper, however, I come at the debate from a very different angle: I argue that contextualism is a much more natural theory – it is much better at respecting the objective metaphysical structure of reality – than moderate invariantism. From this, I draw two further conclusions: first, that contextualism is, in one important respect, much more charitable than moderate invariantism; second, that even if moderate invariantism is true, we should replace our invariantist concept of knowledge with its contextualist analog."
-  notes:
-
-- week: 1
-  date: July 31
-  fulldate: 2024-07-31
-  speaker: Sukaina Hirji
+- speaker: Sukaina Hirji
   affiliation: University of Pennsylvania
-  title: Resentment and Repair
-  abstract: "Sometimes when we forgive someone who has hurt us, it is because we have good reasons to change our outlook on the wrongdoer. Perhaps the person who wronged us offered a sincere apology, they found a way to make amends or, we have decided, they have suffered enough. The person who wronged us has done something to make things right. Other times, when we forgive someone, it feels more like a gift, something we offer freely, without judging that the wrongdoer has earned it. Maybe we are tired of being burdened by our anger, or we believe in unconditional love and kindness, or we have simply ceased to care about the offense. In this paper,  I articulate one way that we give up our resentment against someone who has hurt us that does not fit either of these models. The argument will have consequences for thinking about when we ought to forgive, and more generally, for thinking about the limits of Strawson’s participant stance as it has been traditionally conceived. "
-  notes:
-
-- week: 1
-  date: Aug 1
-  fulldate: 2024-08-01
-  speaker: David Enoch
+- speaker: David Enoch
   affiliation: Hebrew University of Jerusalem
-  title: Why isn’t (purely) epistemic autonomy of value?
-  abstract: "In the practical domain, there are some decisions such that it’s more important that the agent make them herself than that they make the best decision. (Think, for instance, about choosing a romantic partner). In such cases, it seems like a rational agent may insist on making the decision themselves, fully recognizing that if they let someone else decide for them, the decision may be (otherwise) better. In the epistemic case, though, there doesn’t seem to be an analogue of this phenomenon. If I wonder whether p; it seems to me when I consider the first-order evidence that p; but I recognize that my chances of getting to a true belief regarding p are much higher if I rely on you instead; and you say that not-p – well, in such a case it seems a belief in p is never epistemically justified. This paper is my (tentative, and not systematic) attempt to think through this disanalogy between the role of autonomy in the epistemic and practical domain."
-  notes:
-
-- week: 2
-  date: Aug 7
-  fulldate: 2024-08-07
-  speaker: Anca Gheaus
+- speaker: Anca Gheaus
   affiliation: Central European University
-  title: "Parental Partiality in Unjust Circumstances: Inheritance as Insurance"
-  abstract: "There is broad egalitarian agreement that, in existing societies, inheritance results in distributive injustice and indirectly delegitimises the political process. I assume that we should abolish it and fund, amongst other justice-promoting policies, an adequate and robust safety net. But, I argue, in societies that lack such safety nets parents do no wrong in bequeathing to their children and indeed have weighty moral reason to do so. In such societies, both procreative liability and parental love justify some bequest as insurance against poverty. The justified bequests, while limited both in size and form, may be very substantial in aggregate, and therefore impede egalitarian reforms. I conclude that procreative liability and parental love provide (would-be) parents with special – and powerful – reasons to support adequate public safety nets."
-  notes:
-
-- week: 3
-  date: Aug 14
-  fulldate: 2024-08-14
-  speaker: Holly Lawford-Smith
+- speaker: Holly Lawford-Smith
   affiliation: University of Melbourne
-  title: Feminism Beyond Left and Right
-  abstract: "Target claim: feminists should not work with the right. This claim has multiple moving parts (‘feminists’, ‘the right’) and involves a moral imperative, to do with working together with others, that is not been particularly well-theorised. I’ll offer a definition of feminism that should be acceptable to many different types of feminists; assess the question of whether ‘the right’ can be given any meaningful content; and draw on some recent philosophical work that can be adapted to answer ethical questions about working together with others in pursuit of shared political ends. I’ll argue that only if we collapse the moral/political distinction and conflate left/right with good/bad can we get any traction on the idea that feminists should not work with the right."
-  notes:
-
-- week: 4
-  date: Aug 21
-  fulldate: 2024-08-21
-  speaker: Hannah Tierney
+- speaker: Hannah Tierney
   affiliation: University of California, Davis
-  title: The Risky Business of Forgiveness
-  abstract: "Philosophers have noted a tension between two independently plausible features of forgiveness: (1) Forgiveness is reasoned: it is something that agents do for reasons, and (2) Forgiveness is elective: it is not something that agents can be required to do. As Per-Erik Milam (2018) has recently argued, if something is done for reasons, particularly moral reasons, then those reasons can, at least sometimes, generate a requirement for an agent to do that thing. So, those who wish to defend both (1) and (2) must deny that reasons to forgive can be requiring and explain why these reasons possess this potentially unique feature. In this talk, I take up this challenge. I argue that forgiveness is reasoned and elective because it is risky. By reflecting on the riskiness of forgiveness, we can come to see not only how forgiveness can be both reasoned and elective, but also why forgiveness is not so unlike other attitudes at play in our moral lives." 
-  notes:
-
-- week: 5
-  date: Aug 28
-  fulldate: 2024-08-28
-  speaker: Lok-Chi Chan (joint work with Shawn Standefer)
+- speaker: Lok-Chi Chan (joint work with Shawn Standefer)
   affiliation: National Taiwan University
-  title: "Atheist Debunkers and Otherworld Calvinism"
-  abstract: "In the philosophy of religion, 'de jure objections' is an umbrella term that is used to cover a range of arguments for the conclusion that theistic belief is irrational or unreasonable, either if God does or does not exist. Such arguments can be found in the work of Hume, Kant, Russell, and more recently, Oppy and evolutionary debunkers like Dennett, Wilkins, and Griffiths. It has also been argued that Marx, Freud, and Nietzsche offered similar critiques. What we call ‘otherworld Calvinism’ counters these objections by proposing the counterfactual conditional that ‘if God exists, God would ensure theistic belief’s reasonableness’. We respond to this otherworld Calvinist argument by examining it through the lenses of probability, modality, and logic. After examining various forms of the argument, we argue that none of them can compel sophisticated atheist thinkers to believe that serious theistic possibilities worth considering, from their perspective, would involve such a divine measure."
-  notes:
-
-- week: 6
-  date: Sep 4
-  fulldate: 2024-09-04
-  speaker: Caleb Perl
+- speaker: Caleb Perl
   affiliation: Australian Catholic University (Melbourne)
-  title: No convergence on longtermism
-  abstract: "Abstract: Longtermists prioritize the far future. They think that when we donate to relieve suffering, we should only donate to longtermist charities that lower existential risk – the risk that humanity is wiped out, or locked into an oppressive equilibrium. For instance, we should donate to deflecting asteroids, or making AI safe, or something similar - some of Sam Bankman-Fried’s priorities. Donating to relieve present suffering is wrong. Longtermists argue that all defensible moral theories converge on longtermism. The only way to avoid longtermism, they argue, is to discount future people in a way that’s morally indefensible. This talk shows how one kind of moral theory is incompatible with longtermism. I then generalize: I suggest that contractualism and certain kinds of Kantianism would be incompatible with longtermism for closely related reasons."
-  notes:
-
-- week: 7
-  date: Sep 11
-  fulldate: 2024-09-11
-  speaker: Stephen Finlay
+- speaker: Stephen Finlay
   affiliation:
-  title: "Why We Should Only Be Quasi-Expressivists"
-  abstract: "Quasi-expressivism assigns to conversational pragmatics those features of discourse that expressivism-proper essentially assigns to meaning. Building on others' work, I argue that there are compelling reasons to think that the Frege-Geach problem for expressivism is irresolvable. Expressivists can opt for a single- or a dual-attitude strategy. It's now recognized that single-attitude strategies are committed to an explosion of attitude-types, an implication some thinkers have begun to embrace. I'll object not to the number, but to the types of some of these required attitudes. Whereas dual-attitude strategies escape the Frege-Geach problems, my objection is that they accomplish this only by abandoning central expressivist motivations."
-  notes: "Cancelled. Rescheduled, Week 14"
-
-- week: 8
-  date: Sep 18
-  fulldate: 2024-09-18
-  speaker: David Glick
+- speaker: David Glick
   affiliation: University of California, Davis
-  title: Quantum location is not indeterminate location
-  abstract: "It has been argued that quantum mechanics provides the best case for thinking there is genuine metaphysical indeterminacy. In particular, it seems that the locations of quantum systems are indeterminate in a way that doesn’t depend on our representational or epistemic limitations. In this paper, I draw on concepts from the metaphysics of location to dispel this impression. Using quantum versions of exact and weak location I distinguish two accounts of quantum location: the spanner view and the inexact location view. Each account requires the rejection of an intuitive locative principle, but I argue that neither gives rise to metaphysical indeterminacy."     
-  notes:
-
-- week: 9
-  date: Sep 25
-  fulldate: 2024-09-25
-  speaker: David Bronstein
+- speaker: David Bronstein
   affiliation: University of Notre Dame (Sydney)
-  title: Phronesis and Techne in Aristotle’s Theory of Intellectual Virtue
-  abstract: "In this talk I consider two questions about Aristotle’s theory of intellectual virtue, as presented in Book 6 of the Nicomachean Ethics (= Book 5 of the Eudemian Ethics). First, what is intellectual virtue? Second, which capacities are intellectual virtues? With regard to the first question, I propose a generic definition of intellectual virtue in terms of excellence in attaining truth. I also propose two specific definitions corresponding to the two species of intellectual virtue that Aristotle recognises: theoretical and practical. In the second part of the talk I focus on practical intellectual virtue. I argue that Aristotle holds that there is exactly one such virtue—namely, phronesis (practical wisdom)—and that techne (craft, art) is not an intellectual virtue. I consider the reasons why Aristotle denies that techne is an intellectual virtue, focusing on the different roles that phronesis and techne play in practical reasoning or deliberation."
-  notes:
-
-- week: 10
-  date: Oct 9
-  fulldate: 2024-10-09
-  speaker: David Plunkett
+- speaker: David Plunkett
   affiliation: Dartmouth
-  title: "The Explanatory Emptiness of Conciliatory Expressivism"
-  abstract: 'Expressivism is a prominent kind of metaethical view. Put roughly, according to metaethical expressivism, ethical judgments consist in desire-like mental states, rather than belief-like ones, which people then express when making ethical statements. Proponents of metaethical expressivism often claim that an important comparative advantage of their view is that if can avoid central metaphysical and epistemological challenges that more "realist" metaethical views face. Two important (purported) examples of such problems are 1) explaining the supervenience of the ethical on the natural and 2) explaining our reliability in key parts of ethical judgment. We challenge this understanding. In order to have a form of expressivism that captures key parts of how people actually think and talk, there is significant pressure for expressivists to advance "conciliatory" or "accommodationist" versions of their view. Put roughly, such versions of expressivism – which are the most common kinds of expressivist views in contemporary metaethics – involve taking on board theses about the nature of "beliefs", "truths", and \“facts\” that allow expressivists to say that, in at least one important "deflationary" sense there is a way in which ethical thought does involve truth-apt "ethical beliefs" about "ethical facts". However, this move leads to a problem. In short, conciliatory expressivism provides the expressive resources to allow us to felicitously express many of the core metaphysical and epistemological explanatory challenges (e.g., the challenges involving supervenience and reliability) that matter for more straightforwardly "realist" metaethical theories (especially "non-naturalist" ones). Moreover, conciliatory expressivism does not provide any distinctive resources for addressing these challenges. If it can "answer" the challenges, it is not because of the view itself, but rather because of optional "add-on" commitments, which are also equally available in combination with other metaethical views. This result has important implications for how we think about the overall prospects of expressivism in metaethics, as well as in other areas of philosophy where it has gained traction in recent years (such as in normative epistemology and in discussions about modality).'
-  notes: "Co-authored with Tristram McPherson"
-
-- week: 11
-  date: Oct 16
-  fulldate: 2024-10-16
-  speaker: Ulrik Nissen
+- speaker: Ulrik Nissen
   affiliation: Aarhus University, Denmark 
-  title: 'The Responsiveness of Nature. A Phenomenological Approach to the Responsibility for the “More-Than-Human-Nature”'
-  abstract: 'The concept of responsibility is inherently responsive and relational. It places us in a moral demand before the other, to whom we are morally obliged to respond. In responding to the other, we do so in two ways\: firstly, through the act of "living with" and "being with" the other; and secondly, through a moral reflection on what we ought to do. This presentation argues that it is from the responsive encounter with the "more-than-human" other that the imperative of responsibility arises for the flourishing of the common good of all living beings. The following questions are therefore addressed: How can we listen to the more-than-human world and enable its participation? How can we interact? The approach will be phenomenological, with the argument being made that the "being with the other" is a pre-existing condition. Even before we are aware of it, we are immersed in the phenomenon of life. This phenomenon of life encompasses the "more-than-human" world and, as the presentation argues, also gives rise to a moral obligation. As human beings, we are bound to the "more-than-human" other, and thus called to listen to and respond with appropriate responsibility. The presentation falls in three parts. In the first part we turn to relatively recent philosophical approaches regarding the relation between responsiveness and responsibility. The second section turns to the Danish philosopher and theologian, K.E. Løgstrup, for his understanding of the senses in relation to the universe as he calls it. The third part returns to the question of responsiveness with the aim to argue for the link between responsiveness and responsibility and to argue that this entails a call for responsibility to the “more-than-human-nature”.'
-  notes:
-
-- week: 12
-  date: Oct 23
-  fulldate: 2024-10-23
-  speaker: Sean Donahue
+- speaker: Sean Donahue
   affiliation: ANU
-  title: 'Platform Tyranny, Rule of Law, and Virtual Community'
-  abstract: 'Political philosophers have long been concerned with how to avoid state tyranny, the condition of governments having arbitrary power over citizens. A standard response is that avoiding tyranny requires making power holders conform to rule of law principles, for instance by considering their power legitimate only when used according to rules that are public, fairly enforced, and meaningfully contestable. Political scientists, economists, and journalists meanwhile often claim online platforms are sites of tyranny because of the arbitrary power platform owners have over platform users. This raises the question: When are state and platform tyranny sufficiently similar that platforms must conform to rule of law principles to govern users legitimately? I argue the analogy can hold for virtual communities. Given the role some virtual communities play in meeting their members vital interests, platforms must govern these communities according to rule of law principles to be legitimate.'
-  notes:
-
-- week: 12
-  date: Oct 25
-  fulldate: 2025-10-24
-  speaker: James Norton, Finnur Dellsén, Tina Firing
-  affiliation: University of Tasmania, University of Iceland
-  title:
-  abstract:
-  notes: Cancelled.
-
-- week: 13
-  date: Oct 30
-  fulldate: 2024-10-30
-  speaker: Hong Yu Wong
+- speaker: Hong Yu Wong
   affiliation: Tübingen
-  title: 'Studying Artificial Agency: a Methodological Proposal'
-  abstract: > 
-      Can artificial systems act? In the literature we find two camps:
-      sceptics and believers. But the issue of whether artificial systems
-      can act and, if so, how, has not been systematically discussed. This
-      is a foundational question for the ethics of AI. I sketch a
-      methodological approach to investigating the agency of artificial
-      systems from architectural and behavioural perspectives.
-      
-      The architectural approach emphasises that certain kinds of underlying
-      mechanism or organisational structures are required for the capacity
-      to act. The approach is like that of a physiologist. From this
-      perspective, agency is one of the proper functions of the organism and
-      the aim is to understand the underlying mechanisms which underpin it
-      (Tomasello 2022).
-      
-      In contrast, the behavioural approach stresses not internal structure,
-      but behaviour.  Does the system look like it is acting? (Turing 1950.)
-      Can the behaviour of the system only be made sense of by attributing
-      agency? (Dennett 1989.) The approach is like that of a field
-      biologist/anthropologist encountering a new species/system in a ‘first
-      contact’ situation. They can’t analyse the system by understanding its
-      internal structure and dynamics. All they have is behavioural
-      observation.
-      
-      As examples, I will examine two case studies: AlphaGo and ChatGPT3. I
-      argue that future research must combine both architectural and
-      behavioural perspectives so as to make progress. This will allow us to
-      have more fine-grained analysis of the specific capacities underlying
-      general behavioural abilities, so that we can be confident of genuine
-      competence at some level.
-  notes:
-
-- week: 14
-  date: Nov 06
-  fulldate: 2024-11-06
-  speaker: Stephen Finlay
-  affiliation:
-  title: "Why We Should Only Be Quasi-Expressivists"
-  abstract: "Quasi-expressivism assigns to conversational pragmatics those features of discourse that expressivism-proper essentially assigns to meaning. Building on others' work, I argue that there are compelling reasons to think that the Frege-Geach problem for expressivism is irresolvable. Expressivists can opt for a single- or a dual-attitude strategy. It's now recognized that single-attitude strategies are committed to an explosion of attitude-types, an implication some thinkers have begun to embrace. I'll object not to the number, but to the types of some of these required attitudes. Whereas dual-attitude strategies escape the Frege-Geach problems, my objection is that they accomplish this only by abandoning central expressivist motivations."
-  notes: "Rescheduled from earlier in the semester"
-
-- week: 15
-  date: Nov 13
-  fulldate: 2024-11-13
-  speaker: Jessica Isserow
+- speaker: Jessica Isserow
   affiliation: University of Notre Dame
-  title: 'On Being Overlooked: The ethics of praise and the ethics of attention'
-  abstract: | 
-      Praise—“the brighter side of moral responsibility” (Montminy 2022, p.28)—has traditionally been regarded as unproblematic. Understandably so; it’s hard to take moral offence at agents expressing pride, esteem, or admiration for one another. But praise has a dark side. It can be self-aggrandising (Jeppsson & Brandenburg 2022), for instance, or hypocritical (Telech 2024). Some patterns of praise also play an under-appreciated role in supporting structures of oppression (Holroyd 2021, 2023). Like these theorists, I believe that there are grounds to be critical of our practices of positive recognition. My primary interest is the distribution of praise—specifically, the phenomenon of “being overlooked”: many people receive less praise than others not as a result of their lesser merit, but because their achievements or excellences happen to be less visible. Reflection on such cases reveals something important: our patterns of praise reinforce existing disadvantages in under-recognised ways. The remedy, I argue, is not so much to police praise itself as it is to pay greater attention to how we distribute attention.
-  notes:
-
-- week: 18
-  date: Dec 04
-  fulldate: 2024-12-04
-  speaker: Alejandro Naranjo Sandoval
+- speaker: Alejandro Naranjo Sandoval
   affiliation: University of California, Davis
-  title: Race and the Logic of Historical Elucidation
-  abstract: |
-      Many social constructionists urge us to consider the history of a category as part of our investigation into its nature. In other words, they urge us to engage in historical contextualizing. But a pressing question looms over this kind of project. To be socially constructed is for the existence and nature of a category to be partly determined or constituted by historically specific social and cultural facts of a society. When historical contextualizing asks us to investigate our categories at times before these social and cultural facts came about, it's not clear we're dealing with the same categories at all! In this paper, I investigate whether, despite this challenge, historical contextualizing can provide insight into socially constructed racial categories, as well as what kind of insight we can hope to attain. 
-      
-      After taxonomizing different kinds of historical contextualizing, I argue that historical elucidation is, in fact, a coherent, substantive direction of inquiry for social constructionists. The two most promising options are conceiving of socially constructed racial categories as either (1) institutional, in which case they're tied to institutions whose identity-conditions are essentially path-dependent, or (2) functional kinds serving a larger role within background institutions. I end by arguing that both options vindicate historical elucidation... in some cases. With luck, historical elucidation reveals the very nature of race.
-  notes: 
-
-- week: 0
-  date: Feb 19
-  fulldate: 2025-02-19
-  speaker: Melina Tsapos
+- speaker: Melina Tsapos
   affiliation: Lund University, Sweden
-  title: What is Interesting about Conspiracy Theories?
-  abstract: | 
-    A central debate in conspiracy theory research concerns how to conceptualize conspiracy theories in a way that advances our understanding of the phenomena and those who believe in them. This debate remains unresolved, with researchers adopting widely different positions: while some argue for a purely descriptive understanding, others seem strongly committed to the view that conspiracy theories are, or can be shown to be, inherently irrational. This paper reconstructs the controversy, arguing that it stems from two distinct scholarly motives: to attain objective knowledge of the phenomena in question versus to defend beliefs and norms that are part of the researcher’s own cultural context. By examining the epistemological and methodological challenges in this field, I highlight how competing frameworks—normative cultural biases versus objective scientific inquiry—shape our understanding of rational belief. When cultural biases influence research, they risk narrowing its scope and undermining the development of a comprehensive understanding of conspiracy theories. Ultimately, even proponents of normative cultural approaches can acknowledge that such perspectives fail to capture the full complexity and significance of these phenomena
-  notes:
-
-- week: 1
-  date: Feb 26
-  fulldate: 2025-02-26
-  speaker: Mircea Dumitru
+- speaker: Mircea Dumitru
   affiliation: University of Bucharest
-  title: Representations, Models, and Proofs/Rules
-  abstract: |
-    In this paper I present and assess, firstly independently from one another, and then comparatively, the strengths and the weaknesses of three views on semantics: model-theoretic, truth-conditional, and proof-theoretic. The whole philosophical perspective from which I explore those three approaches is motivated by the investigation of the connection between truth and meaning, and also by the understanding of the role and place of meaning within a physicalist outlook of the world. I also hint at how one can combine and coordinate those three approaches depending on the philosophical issues which those systems seek to model. In the process, I present the philosophical rich and nuanced positions of Donald Davidson who pioneered the Tarski-type truth-conditional semantics for natural languages, and of Wilfrid Sellars who made an essential contribution to the understanding of both semantic and pragmatic aspects of the relations between truth and meaning from an inferentialist (proof) based perspective. The paper sketches how certain problems within the Davidsonian framework can be fixed within the Sellarsian framework. The paper ends with some critical points and challenges that I raise against the proof-theoretic (inferentialist) approach questioning its power to give a complete account of the issue of the relationship between truth, meanings, and rules.
-
-  notes:
-
-- week: 2
-  date: March 5
-  fulldate: 2025-03-05
-  speaker: Markus Pantsar
+- speaker: Markus Pantsar
   affiliation: RWTH Aachen University, Germany
-  title: Recognizing artificial mathematical intelligence in theorem proving
-  abstract: |
-    One key question in the philosophy of artificial intelligence (AI) concerns how we can recognize artificial systems as intelligent. To make the general question more manageable, I focus on a particular type of AI, namely one that can prove mathematical theorems. The current generation of automated theorem provers are not understood to possess intelligence, but in my thought experiment an AI provides humanly interesting proofs of theorems and communicates them in human-like manner as scientific papers. I then ask what the criteria could be for recognizing such an AI as intelligent. I propose an approach in which the relevant criteria are based on the AI’s interaction within the mathematical community. Finally, I ask whether we can deny the intelligence of the AI in such a scenario based on reasons other than its (non-biological) material construction.
-  notes:
-
-- week: 3
-  date: March 12
-  fulldate: 2025-03-12
-  speaker: Peter Godfrey-Smith 
+- speaker: Peter Godfrey-Smith 
   affiliation: University of Sydney
-  title: Tolerance, Autonomy, and Free Expression
-  abstract: |
-    Problems surrounding “toleration of the intolerant” are addressed by Ben Kerr and I with a hierarchical framework that explicitly distinguishes levels of tolerance and intolerance. This talk will look at the application of the framework to free expression. The “Voltairean principle” formulated by Evelyn Beatrice Hall – "I disapprove of what you say, but I will defend to the death your right to say it” – illustrates the themes. With the framework in place, I'll look at arguments bearing on tolerance of the expression of controversial opinions, making use of Tim Scanlon’s 1972 paper “A Theory of Freedom of Expression.”
-  notes:
-
-- week: 4
-  date: March 19
-  fulldate: 2025-03-19
-  speaker: Richard Bett
+- speaker: Richard Bett
   affiliation:  Johns Hopkins University
-  title: | 
-    A Dose of Medicine in Sextus Empiricus' Philosophy
-  abstract: | 
-    Sextus Empiricus was a doctor, a member of the Empiric school, as well as a skeptical philosopher. There are clear links between Empiricist medicine and his brand of skepticism. The use of medical analogies in Greek philosophy goes back at least to Plato. But how far does Sextus appeal to medical analogies in explaining his own philosophy? The answer is, less than we might have expected, even though he often uses examples from medicine. But perhaps he took the general analogy between skepticism and medicine for granted. It is also worth asking how far viewing his skeptical method in light of the medical analogy is helpful for us in understanding him. Here too, there may be limits to how illuminating this is; however, there are certainly connections worth exploring.
-  notes:
-
-- week: 5
-  date: March 26
-  fulldate: 2025-03-26
-  speaker: Stephanie Sheintul 
+- speaker: Stephanie Sheintul 
   affiliation: University of Adelaide 
-  title: Rights, Powers, and Paternalism
-  abstract: | 
-    It is controversial when we are morally permitted to act for another’s good. Some suggest that we are rarely permitted to do so given that competent adults have a pro tanto claim right to be the only ones to act only or primarily for their own good. Others suggest that people have a special moral power over their good – what has been called the power of prudential exclusion (PPE) – such that they can exclude us from acting for their good when it would otherwise be permissible for us to do so. I have three aims in this paper. The first is to argue that, rather than the aforementioned right, competent adults more plausibly have a pro tanto claim right against others acting to promote their good for a particular set of well-being-related second-order reasons. Specifically, according to this right, others must not promote their good for the reason that (a) they are unlikely to (or will not) deliberate, judge, or act in their best interests and/or that (b) their judgment or decision about what is valuable or in their best interests is mistaken and/or inferior to the acting agent’s. The second is to introduce a corollary power to the PPE – what I call the power of prudential inclusion (PPI) – which holds that we have the moral power to give others permission to act for our good when it would otherwise be impermissible for them to do so. The third is to sketch a novel rights-based anti-paternalist account based on the right that I (partly) defend we have.
-  notes:
-
-- week: 6
-  date: April 2
-  fulldate: 2025-04-02
-  speaker: Ryan Cox
+- speaker: Ryan Cox
   affiliation: University of Sydney
-  title: Educational Justice as Fairness 
-  abstract: | 
-    Most, if not all, systems of education in advanced industrial societies fail to give all participants within them a fair chance. They are, in this respect, unfair. What makes them unfair? And what would it take to give all participants a fair chance? According to the dominant improper influence approach, they are unfair because some differences in educational outcomes within those systems of education are due to differences in things like social class background—things that are improper influences on differences in educational outcomes. To give all individuals a fair chance, on such an approach, would be to eliminate all such influences. In this presentation, I point to some difficulties with the improper influence approach and introduce a new approach to fairness in education: the fair chance approach. I argue that the fair chance approach provides a better explanation of what makes systems of education unfair when they are, and of what it would take to give all participants within them a fair chance.
-  notes:
-
-- week: 7
-  date: April 9
-  fulldate: 2025-04-09
-  speaker: No seminar this week. Julius Stone law lecture.
-  affiliation:
-  title: 
-  abstract: 
-  notes: RC in US
-
-
-- week: 8
-  date: April 16
-  fulldate: 2025-04-16
-  speaker: No seminar this week. Pacific APA. 
-  affiliation:
-  title: 
-  abstract: 
-  notes: RC in US
-
-- week: 9
-  date: April 30
-  fulldate: 2025-04-30
-  speaker: Philippe Chuard
+- speaker: Philippe Chuard
   affiliation: Southern Methodist University, Dallas
-  title: Postdictive Explanations
-  abstract: | 
-    In the past 20 years or so, a number of cognitive psychologists and neuroscientists—some philosophers even—have advanced so-called “postdictive” models for a variety of perceptual phenomena, including the perception of causation, colour-motion visual asynchrony, etc. Some have suggested that such postdictive mechanisms could naturally account for backward masking and beta-motion. The heralded paradigm which all these attempts invariably appeal to is Eagleman and Sejnowski’s explanation of the flash-lag effect (2000) as the first successful instance of postdiction. Yet, two things should strike us as odd in this kind of rationale for postdiction. For one thing, none of these later appeals to postidiction seem to mean what Eagleman and Sejnowski mean by that notion. Indeed, as we’ll see, there are in fact 4 notions of “postdiction”, and later uses don’t entail Eagleman and Sejnowski’s initial notion. For another, Eagleman and Sejnowski’s postdictive explanation of the flash-lag effect isn’t as successful as it is widely assumed to be.
-  notes: 
-
-- week: 10
-  date: May 7
-  fulldate: 2025-05-07
-  speaker: Matthew Hammerton
+- speaker: Matthew Hammerton
   affiliation: Singapore Management University
-  title: Work, Leisure, and the Sources of Meaning in Life
-  abstract: | 
-    I begin with the question ‘what is work?’ Many argue that ‘work’ is a hopelessly indeterminate term that cannot be adequately defined. Against this view, I develop and defend an account of what work is. Building on this, I then develop accounts of three other types of human activity that can be contrasted with work: leisure, self-development, and engaging in a relationship. With four main types of human activity defined, I then give an account of how each activity can be a source of meaning in life and fit this into a more general view about the sources of meaning in life. Finally, I connect this discussion to debates about the role that work should play in human lives.   
-  notes:
-
-- week: 11
-  date: May 14
-  fulldate: 2025-05-14
-  speaker: Chris Cousens 
+- speaker: Chris Cousens 
   affiliation: University of Glasgow
-  title: Workplace Relations and Artificial Speech Acts
-  abstract: |
-    Speech acts—the things we do with words—are used to structure normative relations with those around us. In promising, I undertake an obligation to you; in ordering, I impose an obligation upon you. This is particularly important in the workplace, where we use speech acts to hire people, promote them, and fire them. Nowadays, many of these speech acts are delivered online—often via email. Recently in the U.S.A., thousands of government employees were fired (and some later re-hired) by email. But thanks to the proliferation of large language models (LLMs), these emails are no longer always issued by a human ‘speaker’. This changes the norms governing online communication. How should we respond to online ‘speech acts’ when they are authored by AI? What about when we do not know if they are AI generated? I will argue that LLMs can perform genuine speech acts that affect our normative statuses; they are no mere ‘stochastic parrots’ (Bender et al. 2021) or ‘bullshitters’ (Hicks, Humphries, and Slater 2024). Traditional speech act theories suggest that the ‘force’ of our speech acts is determined by the intention of the speaker or the uptake of the audience. LLM speech acts challenge this, and so I sketch out an alternative speech act theory that grounds illocutionary force in the ‘conversational score’ (Lewis 1979). 
-  notes:
-
-
-- week: 12
-  date: May 21
-  fulldate: 2025-05-21
-  speaker: Tyler Paytas
+- speaker: Tyler Paytas
   affiliation: Australian Catholic University, Sydney
-  title: Stoic Faith
-  abstract: |
-    The human condition is inherently challenging. Our lives are coloured by toil, limitation, pain, illness, impermanence, and death. Added to these obstacles is an apparent lack of moral economy in the universe. These circumstances render us susceptible to mental disturbance in the form of despair, nihilism, anxiety, and grief. Ancient spiritual traditions aim to provide a bulwark against these afflictions by reframing the human condition in a manner that allows us to face it with equanimity and courage. In the Western context, two traditions have been particularly influential. Christianity teaches that while the human condition is fundamentally bad in several respects (e.g., suffering, sin, death), thanks to God’s grace, the faithful can look forward to an afterlife that is free from the woes of terrestrial existence. Stoicism proceeds by challenging common assumptions about value and well-being; pain, illness, and death are not bad for us because well-being depends solely on virtue. In this paper, I argue that accepting the Stoic account of well-being, which is the core Stoic doctrine, is ultimately a matter of faith, and that we have good reasons to cultivate this faith. I also argue that Stoic faith is more attainable and stable than conventional religious faith. 
-  notes:
-
-- week: 13
-  date: May 28
-  fulldate: 2025-05-28
-  speaker:
-  affiliation: 
-  title: 
-  abstract: 
-  notes:
-
-- week: Out of Semester Seminar
-  date: Jun 4
-  fulldate: 2025-06-26
-  speaker: Benjamin McKean
+- speaker: Benjamin McKean
   affiliation: Ohio State University
-  title: Is despair an obstacle to climate justice?
-  abstract: | 
-    Is hope a prerequisite to political action against climate catastrophe? Is despair of making no difference a major obstacle to such action? Many assume the answer to both questions is yes. Advocates like Andreas Malm argue that we need to demonstrate the efficacy of individual action today to thwart despair while philosophers like Allen Thompson draw from Jonathan Lear’s conception of “radical hope” to argue that we have reason to be hopeful about a future beyond our present understanding. But these approaches to generating hope don’t engage effectively with our political context, in which few people experience political efficacy. And they lack an adequate moral psychology, which I show through an analysis of Malm’s critique of pacifism. Unfortunately, despair is an appropriate response to our circumstances. In place of trying to generate hope, I argue that we need a more present-oriented approach to motivating people to act for climate justice that doesn’t depend on uncertain future effects.
-  notes:
-
-- week: Out of Semester Seminar
-  date: Jun 18
-  fulldate: 2025-06-18
-  speaker: Finnur Dellsén
+- speaker: Finnur Dellsén
   affiliation: University of Iceland
-  title: |
-    Abduction: The Glory and Scandal of Philosophy?
-  abstract: |
-     C.D. Broad referred to inductive reasoning as “the glory of science and the scandal of philosophy”. Broad's point was that while scientists frequently use inductive reasoning, philosophers have not yet provided any convincing justification for this practice. I suggest that an analogous claim is true of abductive reasoning in philosophy: while we philosophers frequently use abductive reasoning, usually in the form of Inference to the Best Explanation, we have not yet provided any convincing justification for this practice. I focus on three problems that arise for abductive reasoning in philosophy: (i) all the explanatory theories that are available may be false; (ii) there may be multiple rival explanations that are nearly as plausible as the best one; and (iii) the evidence from which one is inferring may itself be uncertain. In response to these problems, I argue that we should reconceive of the structure of abductive reasoning in philosophy so that, in most cases, it licenses a substantially more modest type of conclusion than it has previously been thought to do.
-  notes:
 
