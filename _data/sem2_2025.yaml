@@ -48,20 +48,20 @@
 - week: 5
   date: Sep 3
   fulldate: 2025-09-03
-  speaker: 
-  affiliation: 
-  title: 
-  abstract:
-  notes:
-
-- week: 6
-  date: Sep 10
-  fulldate: 2025-09-10
   speaker: Luara Ferracoili
   affiliation: University of Sydney
   title: 
   abstract:
   notes:
+
+# - week: 6
+#  date: Sep 10
+#  fulldate: 2025-09-10
+#  speaker: 
+#  affiliation: 
+#  title: 
+#  abstract:
+#  notes:
 
 - week: 7
   date: Sep 17
