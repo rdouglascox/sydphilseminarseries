@@ -130,7 +130,7 @@
   date: Nov 12
   fulldate: 2025-11-12
   speaker: Francois Cusset
-  affiliation: 
+  affiliation: University of Nanterre
   title: 
   abstract:
   notes:
@@ -140,6 +140,15 @@
   fulldate: 2025-11-19
   speaker: Al Hajek
   affiliation: Australian National University
+  title: 
+  abstract:
+  notes:
+  
+- week: 16
+  date: Nov 26
+  fulldate: 2025-11-26
+  speaker: David Plunkett
+  affiliation: Dartmouth
   title: 
   abstract:
   notes:
