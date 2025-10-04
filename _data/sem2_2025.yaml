@@ -90,10 +90,18 @@
 - week: 9
   date: Oct 8
   fulldate: 2025-10-08
-  speaker: Krisztina Orban
-  affiliation: Tübingen
-  title: 
+  speaker: Krisztina Orbán
+  affiliation: University of Tübingen
+  title: |
+    On Referring: The Beginning
   abstract:
+    | When does referential behavior emerge in ontogeny and phylogeny? The standard answer is that referring requires language. A different answer is that referring already appears in non-human animal communication. I argue that referential behavior is uniquely human but that it emerges prior to the development of language, both in ontogeny and in phylogeny.
+
+      In this talk, I examine the strongest candidates for non-human referential behavior, drawing partly on existing literature and partly on novel cases. I discuss behaviors such as beckoning, honeyguide interactions, begging, and even pointing among non-human primates, in comparison with human pointing behavior. I compare human and non-human primate pointing and elaborate on the relevant differences (Leavens 2004). To clarify these differences, I propose to compare begging, showing, and pointing gestures. Non-human primates readily understand begging and showing gestures, such as lifting an object to display it (e.g., Grice’s example of presenting St. John’s head on a plate). However, pointing is cognitively and communicatively more complex. Research suggests that showing emerges earlier than pointing in human development (Ruether & Liszkowski 2024), reinforcing the idea that pointing requires distinct cognitive and social abilities that only develop later. I explain the advantages of pointing over showing or simply looking when used for referring—behaviors already displayed by chimpanzees and bonobos.
+
+      In this discussion, I use pointing to encompass not only Referential Pointing but also to other forms of non-referential pointing that serve different communicative or cognitive functions. When pointing is discussed in the philosophy of language (Kaplan 1978; Stojnić et al. 2013; Dickie 2015), it is usually restricted to pointing that fixes or shows the referent of a demonstrative expression such as this or that. I argue, however, that there are multiple forms of pointing, and this is only one among them. Most discussions—including those by Augustine, Wittgenstein, Kaplan, and Stojnić—focus only on a special use of pointing, such as pointing in language acquisition or for demonstratives, yet their general claims are often treated as if they are applicable to pointing in general.
+
+      I argue that infants between 9 and 15 months of age already demonstrate referential behavior through their use of referential pointing (Tomasello et al. 2007; Liszkowski & Tomasello 2011; Carpenter et al. 1998; Liszkowski et al. 2007; Tomasello 2010; Leavens et al. 1996; Shatz & O’Reilly 1990; Leavens et al. 2005; Shwe & Markman 1997; Orbán 2025). By this stage, infants are capable of employing pointing gestures to express themselves. In the literature, referential pointing is often treated merely as proto-referential behavior rather than as genuine referring, or else referring itself is treated as exclusively linguistic behavior (cf. Davidson 1977, 1979; Bates et al. 1975; Strawson 1959). Referential pointing, in particular, involves joint attention to indicate a referent, either declaratively (e.g., “This is interesting”) or imperatively (e.g., “Give me that”). An incorrect response typically prompts corrective behavior from the signaller until the intended action occurs. I employ several strategies to argue that referential pointing qualifies as genuine referring, including showing that it passes the standard tests for reference.
   notes:
 
 - week: 10
