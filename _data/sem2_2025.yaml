@@ -106,8 +106,11 @@
   fulldate: 2025-10-15
   speaker: Cristian Larroulet Philippi
   affiliation: University of Melbourne
-  title: 
-  abstract:
+  title: | 
+    Assessing the Bayesian picture of scientific advice: On the political division of labour. (Joint work with Ahmad Elabbar (HPS, University of Cambridge))
+  abstract: |
+    Richard Jeffrey (1956) famously articulated an internal critique to Richard Rudner’s (1953) argument from inductive risk and offered an alternative view of scientific advice, which we call “the Bayesian picture of scientific advice” (BPSA). It involves two essential commitments: scientists should communicate their subjective probabilities (vs. outright beliefs) in hypotheses and doing so upholds a political division of labour (i.e., scientists bring the epistemic input; policy-makers bring the evaluative judgments).
+We argue that communicating credences doesn’t deliver the division of labour—the idea that such a prize is secured by the Bayesian picture is an artifact of the idealizations behind the debate around the inductive risk debate. Basically: scientists’ role in policy advice goes well beyond reporting credences (or outright beliefs for that matter) for a hypotheses previously specified by policy makers. Scientists are necessarily involved in the framing of policy (decision) problems, i.e., in the curation of the policy actions, the states-of-nature, and outcomes that are worth considering. (They are even needed to come up with utility numbers!) And these tasks cannot be done without making value-judgments. This is easy to see when looking at well-studied cases of scientific advice such as large-scale environmental assessments—we focus on the IPCC reports in the talk—but the point generalizes.
   notes:
 
 - week: 11
