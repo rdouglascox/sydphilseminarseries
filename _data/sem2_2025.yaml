@@ -118,8 +118,9 @@
   fulldate: 2025-10-22
   speaker: Chad Lee-Stronach
   affiliation: Northeastern University
-  title: 
-  abstract:
+  title:  The Tragedy of the Conventions (co-authored with Rory Smead)
+  abstract: |
+    Many pressing social problems require coordinated changes across multiple interconnected domains. Climate action, for instance, requires simultaneous transitions in energy, transportation, agriculture, and consumer behavior, where success in each domain depends on progress in others. We ask: under what conditions can socially optimal coordination across domains emerge and persist? We formalize this challenge as the "problem of interdependent conventions'' using evolutionary game theory. Our analysis reveals a deeper challenge than previously recognized: interdependence creates qualitatively different coordination challenges than independent domains. Rather than converging to optimal or suboptimal outcomes, interdependent systems can become trapped in stable partial coordination—some domains succeed while other remain permanently stuck—or fail to coordinate at all. We show that conditional cooperation mechanisms---contingent agreements, signaling platforms, and staged protocols—can work under special conditions. But three structural problems prevent their general implementation: (1) Heterogeneity Trap: domains starting below critical cooperation thresholds remain trapped while others succeed; (2) Bootstrap Paradox: implementing the coordination mechanism requires the very coordination capacity it is meant to create; and (3) Temporal Gap: threshold-crossing requires substantially stronger interdependence than static analysis predicts, as committed actors erode before coordination emerges. These results suggest that the tragedy of the conventions is not that solutions do not exist, but that implementing them requires the very coordination capacity that interdependences make unattainable.
   notes:
 
 - week: 12
