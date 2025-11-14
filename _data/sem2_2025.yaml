@@ -158,8 +158,9 @@
   fulldate: 2025-11-19
   speaker: Al Hajek
   affiliation: Australian National University
-  title: 
-  abstract:
+  title: A Chancy Theory of Counterfactuals
+  abstract: | 
+    I have long argued against the Stalnaker/Lewis ‘similarity’ accounts of counterfactuals. Roughly, they say that the counterfactual if p were the case, q would be the case is true if and only if at the most similar p-worlds, q is true. Most philosophers agree with this. I disagree. I will summarise my main arguments against this entire approach and add some new ones. I will offer a paradigm shift based on conditional chances. The counterfactual is true iff the chance of q, given p, equals 1 at a time shortly, but not too shortly, before the truth value of p was settled. I will argue that this account has many advantages over the similarity accounts. What are the chances? I will present my version of a propensity account, and I will argue that it avoids the main objections that have been levelled against propensities. In short, I offer a conditional propensity account of counterfactuals.
   notes:
   
 - week: 16
