@@ -11,7 +11,7 @@
 
 	  <p> Here are the sydphil@mailman.sydney.edu.au emails for the semester. </p>
 
-{% for sem in site.data.sem2_2025 %}
+{% for sem in site.data.sem1_2026 %}
 <hr> 
 <h3>Week {{ sem.week }}, {{ sem.date }} </h3> 
     <p>Subject: University of Sydney Philosophy Seminar Series, {{ sem.speaker }}{% if sem.affiliation %}, ({{ sem.affiliation }}) {% endif %} </p>
@@ -24,13 +24,13 @@
     <p>The title of the talk is "{{ sem.title }}". Here is an abstract for the talk: </p> 
     <blockquote> {{ sem.abstract }} </blockquote> 
     <p> The seminar will take place at 3:30pm on Wednesday {{ sem.date }} in the Philosophy Seminar Room (N494). </p> 
-    <p> Enquiries about the seminar series can be directed to ryan.cox@sydney.edu.au</p>
-    <p> Ryan Cox <br>
-    Lecturer in Philosophy <br>
+    <p> Enquiries about the seminar series can be directed to david.braddon-mitchell@sydney.edu.au</p>
+    <p> David Braddon-Mitchell <br>
+    Professor <br>
     Discipline of Philosophy <br>
     School of Humanities <br>
     University of Sydney <br>
-    ryan.cox@sydney.edu.au </p>
+    david.braddon-mitchell@sydney.edu.au </p>
 {% endfor %}
 
 </body>

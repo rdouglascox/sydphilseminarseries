@@ -6,7 +6,3 @@ To get to the Philosophy Seminar Room (N494) you can either enter via the entran
 
 To get to the Philosophy Common Room, enter via the entrance on the left as you face the clock tower, go up the stairs, turn right after going up the stairs. The Philosophy Common Room is the first door on the left.
 
-To get to my office (S416), you enter the Quadrangle via the entrance on the left as you face the clock tower. You go up the stairs and turn left. My office is on your left.
-
-
-![The Quadrangle: open image in a new tab to view full size](/quad.jpg)

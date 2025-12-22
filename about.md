@@ -9,4 +9,5 @@ Everyone is welcome to attend the seminar series. Graduate students and
 colleagues from other disciplines across the university are especially welcome.
 
 Questions about the seminar series can be directed to
-[ryan.cox@sydney.edu.au](ryan.cox@sydney.edu.au) 
+[david.braddon-mitchell@sydney.edu.au](david.braddon-mitchell@sydney.edu.au)
+
