@@ -63,3 +63,4 @@ Common gotchas & troubleshooting
 - YAML indentation errors: use spaces (not tabs).
 - If a page looks broken after a merge, check the site build logs (Pages or CI) for YAML or Liquid/template errors.
 - If abstracts include triple-backticks or other markdown that may break YAML, ensure they are properly indented and use block pipes `|`.
+- Be careful of formatting when cutting and pasting html into email software. 
