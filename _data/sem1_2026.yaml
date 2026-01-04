@@ -60,11 +60,12 @@
 - week: 7
   date: Apr 15
   fulldate: 2026-04-15
-  speaker: 
-  affiliation: 
+  speaker: Jack Hume
+  affiliation: King's College London
   title: 
   abstract: 
-  notes:
+  notes: 
+  # jack.hume.19@ucl.ac.uk
 
 - week: 8
   date: Apr 22
