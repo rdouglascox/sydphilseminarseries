@@ -2,7 +2,7 @@
 
 You can subscribe to the University of Sydney Philosophy Seminar Series Calendar using the following link: 
 
-> [https://github.com/rdouglascox/sydphilseminarseries/cal.ics](https://github.com/rdouglascox/sydphilseminarseries/cal.ics) 
+> [https://github.com/rdouglascox/sydphilseminarseries/blob/main/cal.ics](https://github.com/rdouglascox/sydphilseminarseries/blob/main/cal.ics)
 
 Use this link to subscribe to the calendar in your calendar program. (Make sure you subscribe instead of importing the calendar so you get updates). 
 
