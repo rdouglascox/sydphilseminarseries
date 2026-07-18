@@ -123,8 +123,6 @@
   affiliation: Minnesota
 - speaker: Waldemar Brys
   affiliation: University of Notre Dame, Australia
-- speaker: Luara Ferracoili 
-  affiliation: University of Sydney 
 - speaker: Tim Bayne
   affiliation: Monash University
 - speaker: Christopher Lean
@@ -147,149 +145,27 @@
   affiliation: University of Hong Kong
 - speaker: Al Hájek
   affiliation: Australian National University
-- speaker: David Plunkett
-  affiliation: Dartmouth
-- week: 1
-  date: Feb 25  
-  fulldate: 2026-02-25 
-  speaker: Tongdong Bai
+- speaker: Tongdong Bai
   affiliation: Fudan
-  title: Between Natural Law and Positive Law - On Han Fei Zi’s Thin Version of the Rule of Law
-  abstract: 
-  notes:
-
-- week: 2
-  date: Mar 04 
-  fulldate: 2026-03-04
-  speaker:  Dominik Perler
+- speaker: Dominik Perler
   affiliation: Humboldt-Universität, Berlin
-  title: What is a Free Will? Reflections on Suárez
-  abstract: 
-  notes:
-# anik for contact
-
-- week: 3
-  date: Mar 11 
-  fulldate: 2026-03-11
-  speaker:  Michael Devitt 
+- speaker: Michael Devitt
   affiliation: CUNY
-  title: The Metaphysics of Biological Essentialism
-  abstract: 
-  notes:
-# mdevitt@gc.cuny.edu
-
-- week: 4
-  date: Mar 18
-  fulldate: 2026-03-18
-  speaker: Dario Perinetti
+- speaker: Dario Perinetti
   affiliation: 
-  title: 
-  abstract: 
-  notes:
-# anik for contact
-
-- week: 5
-  date: Mar 25
-  fulldate: 2026-03-25
-  speaker: Susan Pennings
+- speaker: Susan Pennings
   affiliation: ACU Sydney
-  title: 
-  abstract: 
-  notes:
-# susan.pennings@acu.edu.au
-
-- week: 6
-  date: Apr 1
-  fulldate: 2026-04-01
-  speaker: Brian Garrett
+- speaker: Brian Garrett
   affiliation: ANU
-  title: Remarks on Causation
-  abstract: Drawing on ideas of Max Black and Michael Dummett, I outline two models of preventable backwards causation. One of these models exhibits a pre-emption structure, the other doesn’t. I then argue that agents have a reason to bring about past events on the second model but not on the first
-  notes:
-
-- week: 7
-  date: Apr 15
-  fulldate: 2026-04-15
-  speaker: Jack Hume
+- speaker: Jack Hume
   affiliation: King's College London
-  title: Fairness and Value in Conservation
-  abstract: Forests, species, languages, artefacts. Many parts of our world are at risk of being lost forever. With limited resources and no shortage of things worth saving, how should we allocate resources, and decide what to do? I draw on a series of case studies to help us think through what fairness requires in conservation. I argue that prominent accounts in the literature have adopted an overly proceduralist approach, that fails to account for the value of truth, justice, and the environment. I develop a substantive approach that can accommodate these values, and defend it against objections of paternalism.
-  notes: 
-  # jack.hume.19@ucl.ac.uk
-
-- week: 8
-  date: Apr 22
-  fulldate: 2026-04-22  
-  speaker: 
+- speaker: Jeremy Moss
   affiliation: 
-  title: 
-  abstract: 
-  notes:
-
-- week: 9
-  date: Apr 29
-  fulldate: 2026-04-29
-  speaker: 
-  affiliation: 
-  title: 
-  abstract: 
-  notes:
-
-- week: 10
-  date: May 06
-  fulldate: 2026-05-06
-  speaker: 
-  affiliation: 
-  title: 
-  abstract: 
-  notes:
-
-- week: 11
-  date: May 13
-  fulldate: 2026-05-13
-  speaker: Jeremy Moss
-  affiliation: 
-  title: 
-  abstract: 
-  notes:
-# j.moss@unsw.edu.au
-
-- week: 12
-  date: May 20
-  fulldate: 2026-05-20 
-  speaker: Colin Bradley
+- speaker: Colin Bradley
   affiliation: NYU
-  title:  Civil Recourse and the Possibility of Republican Freedom
-  abstract: 
-  notes:
-
-- week: 13
-  date: May 27
-  fulldate: 2026-05-27 
-  speaker: Emily Hughes
+- speaker: Emily Hughes
   affiliation: Macquarie
-  title: The Archaeology of Affect in Schizophrenic Autism
-  abstract: 
-  notes:
-
-- week: 14
-  date: Jun 03 
-  fulldate: 2026-06-27 
-  speaker: Eleanor Gordon-Smith
+- speaker: Eleanor Gordon-Smith
   affiliation: USC
-  title: 
-  abstract: 
-  notes:
-
-- week: 15
-  date: Jun 10 
-  fulldate: 2026-06-10 
-  speaker: Daryl Ooi
+- speaker: Daryl Ooi
   affiliation: 
-  title: 
-  abstract: 
-  notes: 
-# darylooi@nus.edu.sg
-
-
-
