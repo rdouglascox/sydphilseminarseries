@@ -44,15 +44,24 @@
   notes:
 
    - week: 6
-  date: 14 Apri
-  fulldate: 2027-04-14
-  speaker: Toby Solomon
-  affiliation: LMU
+  date: 7 April
+  fulldate: 2027-04-07
+  speaker: 
+  affiliation: 
   title: 
   abstract: 
   notes:
 
    - week: 7
+  date: 14 April
+  fulldate: 2027-04-14
+  speaker:
+  affiliation:
+  title: 
+  abstract: 
+  notes:
+
+   - week: 8
   date: 21 April
   fulldate: 2027-04-21
   speaker:
@@ -61,7 +70,7 @@
   abstract: 
   notes:
 
-   - week: 8
+   - week: 9
   date: 28 April
   fulldate: 2027-04-28
   speaker: 
@@ -70,7 +79,7 @@
   abstract: 
   notes:
 
-   - week:5
+   - week:10
   date: 5 May
   fulldate: 2027-05-05
   speaker: 
